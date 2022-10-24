@@ -1,0 +1,1364 @@
+[12563]
+uri = "https://www.city-yuzawa.jp/uploaded/attachment/12563.xlsx"
+output_filename = "playgrounds_2022"
+format_type = "json"
+sheet = 0
+  [[12563.mappings]]
+  type = "string"
+  destination = "source"
+  source = { type = "fixed", value = "Data by 湯沢市 - 子どもの遊び場一覧 / クリエイティブ・コモンズ 表示 4.1日本" }
+  [[12563.mappings]]
+  type = "string"
+  destination = "header.name"
+  source = { type = "cell", cell = "A3" }
+  [[12563.mappings]]
+  type = "string"
+  destination = "header.address"
+  source = { type = "cell", cell = "B3" }
+  [[12563.mappings]]
+  type = "string"
+  destination = "header.equipments"
+  format = { type = "replace", args = { src = "\n", dist = "" } }
+  source = { type = "cell", cell = "C3" }
+  [[12563.mappings]]
+  type = "string"
+  destination = "header.toilet"
+  source = { type = "cell", cell = "D3" }
+  [[12563.mappings]]
+  type = "string"
+  destination = "header.drinking_fountain"
+  source = { type = "cell", cell = "E3" }
+  [[12563.mappings]]
+  type = "string"
+  destination = "header.note"
+  source = { type = "cell", cell = "F3" }
+  [[12563.mappings]]
+  type = "string"
+  destination = "header.other"
+  source = { type = "cell", cell = "G3" }
+  [[12563.mappings]]
+  type = "string"
+  destination = "header.contact"
+  source = { type = "cell", cell = "H3" }
+  [[12563.mappings]]
+  type = "string"
+  destination = "data[].name"
+  source = { type = "table", direction = "vertical", column = "A", start_row = "4" }
+  [[12563.mappings]]
+  type = "string"
+  destination = "data[].address"
+  source = { type = "table", direction = "vertical", column = "B", start_row = "4" }
+  [[12563.mappings]]
+  type = "string"
+  destination = "data[].equipments"
+  source = { type = "table", direction = "vertical", column = "C", start_row = "4" }
+  [[12563.mappings]]
+  type = "string"
+  destination = "data[].toilet"
+  source = { type = "table", direction = "vertical", column = "D", start_row = "4" }
+  [[12563.mappings]]
+  type = "string"
+  destination = "data[].drinking_fountain"
+  source = { type = "table", direction = "vertical", column = "E", start_row = "4" }
+  [[12563.mappings]]
+  type = "string"
+  destination = "data[].note"
+  source = { type = "table", direction = "vertical", column = "F", start_row = "4" }
+  [[12563.mappings]]
+  type = "string"
+  destination = "data[].other"
+  source = { type = "table", direction = "vertical", column = "G", start_row = "4" }
+  [[12563.mappings]]
+  type = "string"
+  destination = "data[].contact"
+  source = { type = "table", direction = "vertical", column = "H", start_row = "4" }
+
+[12566]
+uri = "https://www.city-yuzawa.jp/uploaded/attachment/12566.xlsx"
+output_filename = "life_event_2022"
+format_type = "json"
+sheet = 0
+  [[12566.mappings]]
+  type = "string"
+  destination = "source"
+  source = { type = "fixed", value = "Data by 湯沢市 - ライフイベントに関する相談窓口 / クリエイティブ・コモンズ 表示 4.1日本" }
+  [[12566.mappings]]
+  type = "string"
+  destination = "header.marriage"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "A4" }
+  [[12566.mappings]]
+  type = "string"
+  destination = "header.pregnancy"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "B4" }
+  [[12566.mappings]]
+  type = "string"
+  destination = "header.childcare"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "C4" }
+  [[12566.mappings]]
+  type = "string"
+  destination = "header.consultation"
+  source = { type = "cell", cell = "D3" }
+  [[12566.mappings]]
+  type = "string"
+  destination = "header.name"
+  source = { type = "cell", cell = "E3" }
+  [[12566.mappings]]
+  type = "string"
+  destination = "header.time"
+  source = { type = "cell", cell = "F3" }
+  [[12566.mappings]]
+  type = "string"
+  destination = "header.location"
+  source = { type = "cell", cell = "G3" }
+  [[12566.mappings]]
+  type = "string"
+  destination = "header.tel"
+  source = { type = "cell", cell = "H3" }
+  [[12566.mappings]]
+  type = "boolean"
+  destination = "data[].marriage"
+  source = { type = "table", direction = "vertical", column = "A", start_row = "5" }
+  [[12566.mappings]]
+  type = "boolean"
+  destination = "data[].pregnancy"
+  source = { type = "table", direction = "vertical", column = "B", start_row = "5" }
+  [[12566.mappings]]
+  type = "boolean"
+  destination = "data[].childcare"
+  source = { type = "table", direction = "vertical", column = "C", start_row = "5" }
+  [[12566.mappings]]
+  type = "string"
+  destination = "data[].consultation"
+  source = { type = "table", direction = "vertical", column = "D", start_row = "5" }
+  [[12566.mappings]]
+  type = "string"
+  destination = "data[].name"
+  source = { type = "table", direction = "vertical", column = "E", start_row = "5" }
+  [[12566.mappings]]
+  type = "string"
+  destination = "data[].time"
+  source = { type = "table", direction = "vertical", column = "F", start_row = "5" }
+  [[12566.mappings]]
+  type = "string"
+  destination = "data[].location"
+  source = { type = "table", direction = "vertical", column = "G", start_row = "5" }
+  [[12566.mappings]]
+  type = "string"
+  destination = "data[].tel"
+  source = { type = "table", direction = "vertical", column = "H", start_row = "5" }
+
+[12567]
+uri = "https://www.city-yuzawa.jp/uploaded/attachment/12567.xlsx"
+output_filename = "childcare_support_2022"
+format_type = "json"
+sheet = 0
+  [[12567.mappings]]
+  type = "string"
+  destination = "source"
+  source = { type = "fixed", value = "Data by 湯沢市 - 子育て支援センター / クリエイティブ・コモンズ 表示 4.1日本" }
+  [[12567.mappings]]
+  type = "string"
+  destination = "index.data_01"
+  format = { type = "replace", args = { src = "□", dist = "" } }
+  source = { type = "cell", cell = "B1" }
+  [[12567.mappings]]
+  type = "string"
+  destination = "index.data_02"
+  format = { type = "replace", args = { src = "□", dist = "" } }
+  source = { type = "cell", cell = "B11" }
+  [[12567.mappings]]
+  type = "string"
+  destination = "header.data_01.name"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "B2" }
+  [[12567.mappings]]
+  type = "string"
+  destination = "header.data_01.address"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "C2" }
+  [[12567.mappings]]
+  type = "string"
+  destination = "header.data_01.tel"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "D2" }
+  [[12567.mappings]]
+  type = "string"
+  destination = "header.data_01.fax"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "E2" }
+  [[12567.mappings]]
+  type = "string"
+  destination = "header.data_01.business_start_date"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "F2" }
+  [[12567.mappings]]
+  type = "string"
+  destination = "header.data_01.opening_time"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "G2" }
+  [[12567.mappings]]
+  type = "string"
+  destination = "header.data_02.name"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "B12" }
+  [[12567.mappings]]
+  type = "string"
+  destination = "header.data_02.address"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "C12" }
+  [[12567.mappings]]
+  type = "string"
+  destination = "header.data_02.tel"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "D12" }
+  [[12567.mappings]]
+  type = "string"
+  destination = "header.data_02.business_start_date"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "E12" }
+  [[12567.mappings]]
+  type = "string"
+  destination = "header.data_02.opening_time"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "G12" }
+  [[12567.mappings]]
+  type = "string"
+  destination = "data_01[].name"
+    [12567.mappings.source]
+    type = "merge"
+      [[12567.mappings.source.refs]]
+      type = "table"
+      direction = "vertical"
+      column = "B"
+      start_row = "3"
+      end_row = "3"
+      [[12567.mappings.source.refs]]
+      type = "join"
+      refs = [{ type = "table", direction = "vertical", column = "B", start_row = "4", end_row = "9", skip = 2 }, { type = "table", direction = "vertical", column = "B", start_row = "5", end_row = "9", skip = 2 }]
+  [[12567.mappings]]
+  type = "string"
+  destination = "data_01[].address"
+    [12567.mappings.source]
+    type = "merge"
+    refs = [{ type = "table", direction = "vertical", column = "C", start_row = "3", end_row = "3" }, { type = "table", direction = "vertical", column = "C", start_row = "4", end_row = "9", skip = 2 }]
+  [[12567.mappings]]
+  type = "string"
+  destination = "data_01[].tel"
+    [12567.mappings.source]
+    type = "merge"
+    refs = [{ type = "table", direction = "vertical", column = "D", start_row = "3", end_row = "3" }, { type = "table", direction = "vertical", column = "D", start_row = "4", end_row = "9", skip = 2 }]
+  [[12567.mappings]]
+  type = "string"
+  destination = "data_01[].fax"
+    [12567.mappings.source]
+    type = "merge"
+    refs = [{ type = "table", direction = "vertical", column = "E", start_row = "3", end_row = "3" }, { type = "table", direction = "vertical", column = "E", start_row = "4", end_row = "9", skip = 2 }]
+  [[12567.mappings]]
+  type = "string"
+  destination = "data_01[].business_start_date"
+    [12567.mappings.source]
+    type = "merge"
+    refs = [{ type = "table", direction = "vertical", column = "F", start_row = "3", end_row = "3" }, { type = "table", direction = "vertical", column = "F", start_row = "4", end_row = "9", skip = 2 }]
+  [[12567.mappings]]
+  type = "string"
+  destination = "data_01[].opening_time"
+    [12567.mappings.source]
+    type = "merge"
+    refs = [{ type = "table", direction = "vertical", column = "G", start_row = "3", end_row = "3" }, { type = "table", direction = "vertical", column = "G", start_row = "4", end_row = "9", skip = 2 }]
+  [[12567.mappings]]
+  type = "string"
+  destination = "data_02[].name"
+  source = { type = "table", direction = "vertical", column = "B", start_row = "13" }
+  [[12567.mappings]]
+  type = "string"
+  destination = "data_02[].address"
+  source = { type = "table", direction = "vertical", column = "C", start_row = "13" }
+  [[12567.mappings]]
+  type = "string"
+  destination = "data_02[].tel"
+  source = { type = "table", direction = "vertical", column = "D", start_row = "13" }
+  [[12567.mappings]]
+  type = "string"
+  destination = "data_02[].business_start_date"
+  source = { type = "table", direction = "vertical", column = "E", start_row = "13" }
+  [[12567.mappings]]
+  type = "string"
+  destination = "data_02[].opening_time"
+  source = { type = "table", direction = "vertical", column = "G", start_row = "13" }
+
+[12568]
+uri = "https://www.city-yuzawa.jp/uploaded/attachment/12568.xlsx"
+output_filename = "libraries_2022"
+format_type = "json"
+sheet = 0
+  [[12568.mappings]]
+  type = "string"
+  destination = "source"
+  source = { type = "fixed", value = "Data by 湯沢市 - 湯沢市図書館 / クリエイティブ・コモンズ 表示 4.1日本" }
+  [[12568.mappings]]
+  type = "string"
+  destination = "header.name"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "A1" }
+  [[12568.mappings]]
+  type = "string"
+  destination = "header.zipcode"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "B1" }
+  [[12568.mappings]]
+  type = "string"
+  destination = "header.address"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "C1" }
+  [[12568.mappings]]
+  type = "string"
+  destination = "header.tel"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "D1" }
+  [[12568.mappings]]
+  type = "string"
+  destination = "header.email"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "E1" }
+  [[12568.mappings]]
+  type = "string"
+  destination = "header.opening_time"
+  format = { type = "replace", args = { src = " ", dist = "" } }
+  source = { type = "cell", cell = "F1" }
+  [[12568.mappings]]
+  type = "string"
+  destination = "header.holiday"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "G1" }
+  [[12568.mappings]]
+  type = "string"
+  destination = "header.note"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "H1" }
+  [[12568.mappings]]
+  type = "string"
+  destination = "data[].name"
+  source = { type = "table", direction = "vertical", column = "A", start_row = "2", end_if_empty = true }
+  [[12568.mappings]]
+  type = "string"
+  destination = "data[].zipcode"
+  source = { type = "table", direction = "vertical", column = "B", start_row = "2", end_if_empty = true }
+  [[12568.mappings]]
+  type = "string"
+  destination = "data[].address"
+  source = { type = "table", direction = "vertical", column = "C", start_row = "2", end_if_empty = true }
+  [[12568.mappings]]
+  type = "string"
+  destination = "data[].tel"
+  source = { type = "table", direction = "vertical", column = "D", start_row = "2", end_if_empty = true }
+  [[12568.mappings]]
+  type = "string"
+  destination = "data[].email"
+  source = { type = "table", direction = "vertical", column = "E", start_row = "2", end_if_empty = true }
+  [[12568.mappings]]
+  type = "string"
+  destination = "data[].opening_time"
+  source = { type = "table", direction = "vertical", column = "F", start_row = "2", end_if_empty = true }
+  [[12568.mappings]]
+  type = "string"
+  destination = "data[].holiday"
+  source = { type = "table", direction = "vertical", column = "G", start_row = "2", end_if_empty = true }
+  [[12568.mappings]]
+  type = "string"
+  destination = "data[].note"
+  source = { type = "table", direction = "vertical", column = "H", start_row = "2", end_if_empty = true }
+
+[12569]
+uri = "https://www.city-yuzawa.jp/uploaded/attachment/12569.xlsx"
+output_filename = "nurseries_2022"
+format_type = "json"
+sheet = 0
+  [[12569.mappings]]
+  type = "string"
+  destination = "source"
+  source = { type = "fixed", value = "Data by 湯沢市 - 保育園・認定子ども園・幼稚園 / クリエイティブ・コモンズ 表示 4.1日本" }
+  [[12569.mappings]]
+  type = "string"
+  destination = "header.category"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "A2" }
+  [[12569.mappings]]
+  type = "string"
+  destination = "header.name"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "A2" }
+  [[12569.mappings]]
+  type = "string"
+  destination = "header.address"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "C2" }
+  [[12569.mappings]]
+  type = "string"
+  destination = "header.tel"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "D2" }
+  [[12569.mappings]]
+  type = "string"
+  destination = "header.fax"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "E2" }
+  [[12569.mappings]]
+  type = "string"
+  destination = "header.capacity"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "F2" }
+  [[12569.mappings]]
+  type = "string"
+  destination = "header.opening_time"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "G2" }
+  [[12569.mappings]]
+  type = "string"
+  destination = "header.education_time"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "H2" }
+  [[12569.mappings]]
+  type = "string"
+  destination = "header.childcare_standard_time"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "I2" }
+  [[12569.mappings]]
+  type = "string"
+  destination = "header.childcare_short_time"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "J2" }
+  [[12569.mappings]]
+  type = "string"
+  destination = "data[].category"
+  source = { type = "table", direction = "vertical", column = "A", start_row = "3", end_row = "15", copy_prev_if_empty = true }
+  [[12569.mappings]]
+  type = "string"
+  destination = "data[].name"
+  source = { type = "table", direction = "vertical", column = "B", start_row = "3", end_row = "15" }
+  [[12569.mappings]]
+  type = "string"
+  destination = "data[].address"
+  source = { type = "table", direction = "vertical", column = "C", start_row = "3", end_row = "15" }
+  [[12569.mappings]]
+  type = "string"
+  destination = "data[].tel"
+  source = { type = "table", direction = "vertical", column = "D", start_row = "3", end_row = "15" }
+  [[12569.mappings]]
+  type = "string"
+  destination = "data[].fax"
+  source = { type = "table", direction = "vertical", column = "E", start_row = "3", end_row = "15" }
+  [[12569.mappings]]
+  type = "number"
+  destination = "data[].capacity"
+  format = { type = "floor", args = { ndigits = 0 } }
+  source = { type = "table", direction = "vertical", column = "F", start_row = "3", end_row = "15" }
+  [[12569.mappings]]
+  type = "string"
+  destination = "data[].opening_time"
+  source = { type = "table", direction = "vertical", column = "G", start_row = "3", end_row = "15" }
+  [[12569.mappings]]
+  type = "string"
+  destination = "data[].education_time"
+  source = { type = "table", direction = "vertical", column = "H", start_row = "3", end_row = "15" }
+  [[12569.mappings]]
+  type = "string"
+  destination = "data[].childcare_standard_time"
+  source = { type = "table", direction = "vertical", column = "I", start_row = "3", end_row = "15" }
+  [[12569.mappings]]
+  type = "string"
+  destination = "data[].childcare_short_time"
+  source = { type = "table", direction = "vertical", column = "J", start_row = "3", end_row = "15" }
+  [[12569.mappings]]
+  type = "string"
+  destination = "data[].note"
+  source = { type = "table", direction = "vertical", column = "K", start_row = "3", end_row = "15" }
+
+[12570]
+uri = "https://www.city-yuzawa.jp/uploaded/attachment/12570.xlsx"
+output_filename = "kids_stations_2022"
+format_type = "json"
+sheet = 0
+  [[12570.mappings]]
+  type = "string"
+  destination = "source"
+  source = { type = "fixed", value = "Data by 湯沢市 - 放課後子ども教室開設場所 / クリエイティブ・コモンズ 表示 4.1日本" }
+  [[12570.mappings]]
+  type = "string"
+  destination = "header.kids_station_name"
+  source = { type = "cell", cell = "A1" }
+  [[12570.mappings]]
+  type = "string"
+  destination = "header.name"
+  source = { type = "cell", cell = "B1" }
+  [[12570.mappings]]
+  type = "string"
+  destination = "header.address"
+  source = { type = "cell", cell = "C1" }
+  [[12570.mappings]]
+  type = "string"
+  destination = "data[].kids_station_name"
+  source = { type = "table", direction = "vertical", column = "A", start_row = "2", end_if_empty = true }
+  [[12570.mappings]]
+  type = "string"
+  destination = "data[].name"
+  source = { type = "table", direction = "vertical", column = "B", start_row = "2", end_if_empty = true }
+  [[12570.mappings]]
+  type = "string"
+  destination = "data[].address"
+  source = { type = "table", direction = "vertical", column = "C", start_row = "2", end_if_empty = true }
+
+[12571]
+uri = "https://www.city-yuzawa.jp/uploaded/attachment/12571.xlsx"
+output_filename = "kids_club_2022"
+format_type = "json"
+sheet = 0
+  [[12571.mappings]]
+  type = "string"
+  destination = "source"
+  source = { type = "fixed", value = "Data by 湯沢市 - 放課後児童クラブ、児童館 / クリエイティブ・コモンズ 表示 4.1日本" }
+  [[12571.mappings]]
+  type = "string"
+  destination = "header.distinct"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "A2" }
+  [[12571.mappings]]
+  type = "string"
+  destination = "header.name"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "B2" }
+  [[12571.mappings]]
+  type = "string"
+  destination = "header.address"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "C2" }
+  [[12571.mappings]]
+  type = "string"
+  destination = "header.location"
+  source = { type = "fixed", value = "" }
+  [[12571.mappings]]
+  type = "string"
+  destination = "header.tel"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "E2" }
+  [[12571.mappings]]
+  type = "string"
+  destination = "header.weekday_opening_time"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "F2" }
+  [[12571.mappings]]
+  type = "string"
+  destination = "header.holiday_opening_time"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "G2" }
+  [[12571.mappings]]
+  type = "string"
+  destination = "data[].distinct"
+    [12571.mappings.source]
+    type = "merge"
+    refs = [{ type = "cell", cell = "A4" }, { type = "table", direction = "vertical", column = "A", start_row = "4", copy_prev_if_empty = true }]
+  [[12571.mappings]]
+  type = "string"
+  destination = "data[].name"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "table", direction = "vertical", column = "B", start_row = "3" }
+  [[12571.mappings]]
+  type = "string"
+  destination = "data[].address"
+  source = { type = "table", direction = "vertical", column = "C", start_row = "3" }
+  [[12571.mappings]]
+  type = "string"
+  destination = "data[].location"
+  source = { type = "table", direction = "vertical", column = "D", start_row = "3" }
+  [[12571.mappings]]
+  type = "string"
+  destination = "data[].tel"
+  source = { type = "table", direction = "vertical", column = "E", start_row = "3" }
+  [[12571.mappings]]
+  type = "string"
+  destination = "data[].weekday_opening_time"
+  source = { type = "table", direction = "vertical", column = "F", start_row = "3" }
+  [[12571.mappings]]
+  type = "string"
+  destination = "data[].holiday_opening_time"
+  source = { type = "table", direction = "vertical", column = "G", start_row = "3" }
+
+[12572]
+uri = "https://www.city-yuzawa.jp/uploaded/attachment/12572.xlsx"
+output_filename = "grouphome_2022"
+format_type = "json"
+sheet = 0
+  [[12572.mappings]]
+  type = "string"
+  destination = "source"
+  source = { type = "fixed", value = "Data by 湯沢市 - グループホーム / クリエイティブ・コモンズ 表示 4.1日本" }
+  [[12572.mappings]]
+  type = "string"
+  destination = "header.service"
+  source = { type = "cell", cell = "A1" }
+  [[12572.mappings]]
+  type = "string"
+  destination = "header.business_name"
+  source = { type = "cell", cell = "B1" }
+  [[12572.mappings]]
+  type = "string"
+  destination = "header.name"
+  source = { type = "cell", cell = "C1" }
+  [[12572.mappings]]
+  type = "string"
+  destination = "header.address"
+  source = { type = "cell", cell = "D1" }
+  [[12572.mappings]]
+  type = "string"
+  destination = "header.capacity"
+  source = { type = "cell", cell = "E1" }
+  [[12572.mappings]]
+  type = "string"
+  destination = "data[].service"
+    [12572.mappings.source]
+    type = "merge"
+    refs = [{ type = "table", direction = "vertical", column = "A", start_row = "2", end_row = "6", copy_prev_if_empty = true }, { type = "table", direction = "vertical", column = "A", start_row = "7" }]
+  [[12572.mappings]]
+  type = "string"
+  destination = "data[].business_name"
+  source = { type = "table", direction = "vertical", column = "B", start_row = "2", copy_prev_if_empty = true }
+  [[12572.mappings]]
+  type = "string"
+  destination = "data[].name"
+  source = { type = "table", direction = "vertical", column = "C", start_row = "2" }
+  [[12572.mappings]]
+  type = "string"
+  destination = "data[].address"
+  source = { type = "table", direction = "vertical", column = "D", start_row = "2" }
+  [[12572.mappings]]
+  type = "number"
+  destination = "data[].capacity"
+  format = { type = "floor", args = { ndigits = 0 } }
+  source = { type = "table", direction = "vertical", column = "E", start_row = "2" }
+
+[12573]
+uri = "https://www.city-yuzawa.jp/uploaded/attachment/12573.xlsx"
+output_filename = "support_for_handicapped_2022"
+format_type = "json"
+sheet = 0
+  [[12573.mappings]]
+  type = "string"
+  destination = "source"
+  source = { type = "fixed", value = "Data by 湯沢市 - 相談支援事業所(障がい児・者) / クリエイティブ・コモンズ 表示 4.1日本" }
+  [[12573.mappings]]
+  type = "string"
+  destination = "header.name"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "A2" }
+  [[12573.mappings]]
+  type = "string"
+  destination = "header.zipcode"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "B2" }
+  [[12573.mappings]]
+  type = "string"
+  destination = "header.address"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "B2" }
+  [[12573.mappings]]
+  type = "string"
+  destination = "header.tel"
+  source = { type = "cell", cell = "C2" }
+  [[12573.mappings]]
+  type = "string"
+  destination = "header.fax"
+  source = { type = "cell", cell = "C2" }
+  [[12573.mappings]]
+  type = "string"
+  destination = "data[].name"
+  source = { type = "table", direction = "vertical", column = "A", start_row = "3", skip = 2 }
+  [[12573.mappings]]
+  type = "string"
+  destination = "data[].zipcode"
+  source = { type = "table", direction = "vertical", column = "B", start_row = "3", skip = 2 }
+  [[12573.mappings]]
+  type = "string"
+  destination = "data[].address"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "table", direction = "vertical", column = "B", start_row = "4", skip = 2 }
+  [[12573.mappings]]
+  type = "string"
+  destination = "data[].tel"
+  source = { type = "table", direction = "vertical", column = "C", start_row = "3", skip = 2 }
+  [[12573.mappings]]
+  type = "string"
+  destination = "data[].fax"
+  source = { type = "table", direction = "vertical", column = "C", start_row = "4", skip = 2 }
+
+[12577]
+uri = "https://www.city-yuzawa.jp/uploaded/attachment/12577.xlsx"
+output_filename = "emergnecy_evacuation_2022"
+format_type = "json"
+sheet = 0
+  [[12577.mappings]]
+  type = "string"
+  destination = "source"
+  source = { type = "fixed", value = "Data by 湯沢市 - 指定緊急避難場所一覧(2016年8月23日現在) / クリエイティブ・コモンズ 表示 4.1日本" }
+  [[12577.mappings]]
+  type = "string"
+  destination = "header.no"
+  source = { type = "cell", cell = "A4" }
+  [[12577.mappings]]
+  type = "string"
+  destination = "header.name"
+  source = { type = "cell", cell = "B4" }
+  [[12577.mappings]]
+  type = "string"
+  destination = "header.address"
+  source = { type = "cell", cell = "C4" }
+  [[12577.mappings]]
+  type = "string"
+  destination = "header.contact_name"
+  source = { type = "cell", cell = "D4" }
+  [[12577.mappings]]
+  type = "string"
+  destination = "header.tel"
+  source = { type = "cell", cell = "D4" }
+  [[12577.mappings]]
+  type = "string"
+  destination = "header.flood"
+    [12577.mappings.source]
+    type = "join"
+    delimiter = " "
+    refs = [{ type = "cell", cell = "F4" }, { type = "cell", cell = "F5" }]
+  [[12577.mappings]]
+  type = "string"
+  destination = "header.landslide"
+    [12577.mappings.source]
+    type = "join"
+    delimiter = " "
+    refs = [{ type = "cell", cell = "F4" }, { type = "cell", cell = "G5" }]
+  [[12577.mappings]]
+  type = "string"
+  destination = "header.surge"
+    [12577.mappings.source]
+    type = "join"
+    delimiter = " "
+    refs = [{ type = "cell", cell = "F4" }, { type = "cell", cell = "H5" }]
+  [[12577.mappings]]
+  type = "string"
+  destination = "header.earthquake"
+    [12577.mappings.source]
+    type = "join"
+    delimiter = " "
+    refs = [{ type = "cell", cell = "F4" }, { type = "cell", cell = "I5" }]
+  [[12577.mappings]]
+  type = "string"
+  destination = "header.tsunami"
+    [12577.mappings.source]
+    type = "join"
+    delimiter = " "
+    refs = [{ type = "cell", cell = "F4" }, { type = "cell", cell = "J5" }]
+  [[12577.mappings]]
+  type = "string"
+  destination = "header.fire"
+    [12577.mappings.source]
+    type = "join"
+    delimiter = " "
+    refs = [{ type = "cell", cell = "F4" }, { type = "cell", cell = "K5" }]
+  [[12577.mappings]]
+  type = "string"
+  destination = "header.inland_flood"
+    [12577.mappings.source]
+    type = "join"
+    delimiter = " "
+    refs = [{ type = "cell", cell = "F4" }, { type = "cell", cell = "L5" }]
+  [[12577.mappings]]
+  type = "string"
+  destination = "header.volcanic_activity"
+    [12577.mappings.source]
+    type = "join"
+    delimiter = " "
+    refs = [{ type = "cell", cell = "F4" }, { type = "cell", cell = "M5" }]
+  [[12577.mappings]]
+  type = "string"
+  destination = "header.duplicated"
+  source = { type = "cell", cell = "N4" }
+  [[12577.mappings]]
+  type = "string"
+  destination = "header.expected_capacity"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "O4" }
+  [[12577.mappings]]
+  type = "string"
+  destination = "header.area"
+  source = { type = "cell", cell = "P4" }
+  [[12577.mappings]]
+  type = "string"
+  destination = "header.duplicated_area"
+  source = { type = "cell", cell = "Q4" }
+  [[12577.mappings]]
+  type = "string"
+  destination = "meta.date"
+  source = { type = "cell", cell = "K2" }
+  [[12577.mappings]]
+  type = "string"
+  destination = "meta.city"
+  source = { type = "cell", cell = "L3" }
+  [[12577.mappings]]
+  type = "number"
+  destination = "data[].no"
+  format = { type = "floor", args = { ndigits = 0 } }
+  source = { type = "table", direction = "vertical", column = "A", start_row = "6", end_row = "80" }
+  [[12577.mappings]]
+  type = "string"
+  destination = "data[].name"
+  source = { type = "table", direction = "vertical", column = "B", start_row = "6", end_row = "80" }
+  [[12577.mappings]]
+  type = "string"
+  destination = "data[].address"
+  source = { type = "table", direction = "vertical", column = "C", start_row = "6", end_row = "80" }
+  [[12577.mappings]]
+  type = "string"
+  destination = "data[].contact_name"
+  source = { type = "table", direction = "vertical", column = "D", start_row = "6", end_row = "80" }
+  [[12577.mappings]]
+  type = "string"
+  destination = "data[].tel"
+  source = { type = "table", direction = "vertical", column = "E", start_row = "6", end_row = "80" }
+  [[12577.mappings]]
+  type = "boolean"
+  destination = "data[].flood"
+  source = { type = "table", direction = "vertical", column = "F", start_row = "6", end_row = "80" }
+  [[12577.mappings]]
+  type = "boolean"
+  destination = "data[].landslide"
+  source = { type = "table", direction = "vertical", column = "G", start_row = "6", end_row = "80" }
+  [[12577.mappings]]
+  type = "boolean"
+  destination = "data[].surge"
+  source = { type = "table", direction = "vertical", column = "H", start_row = "6", end_row = "80" }
+  [[12577.mappings]]
+  type = "boolean"
+  destination = "data[].earthquake"
+  source = { type = "table", direction = "vertical", column = "I", start_row = "6", end_row = "80" }
+  [[12577.mappings]]
+  type = "boolean"
+  destination = "data[].tsunami"
+  source = { type = "table", direction = "vertical", column = "J", start_row = "6", end_row = "80" }
+  [[12577.mappings]]
+  type = "boolean"
+  destination = "data[].fire"
+  source = { type = "table", direction = "vertical", column = "K", start_row = "6", end_row = "80" }
+  [[12577.mappings]]
+  type = "boolean"
+  destination = "data[].inland_flood"
+  source = { type = "table", direction = "vertical", column = "L", start_row = "6", end_row = "80" }
+  [[12577.mappings]]
+  type = "boolean"
+  destination = "data[].volcanic_activity"
+  source = { type = "table", direction = "vertical", column = "M", start_row = "6", end_row = "80" }
+  [[12577.mappings]]
+  type = "boolean"
+  destination = "data[].duplicated"
+  source = { type = "table", direction = "vertical", column = "N", start_row = "6", end_row = "80" }
+  [[12577.mappings]]
+  type = "number"
+  destination = "data[].expected_capacity"
+  format = { type = "floor", args = { ndigits = 0 } }
+  source = { type = "table", direction = "vertical", column = "O", start_row = "6", end_row = "80" }
+  [[12577.mappings]]
+  type = "number"
+  destination = "data[].area"
+  format = { type = "floor", args = { ndigits = 0 } }
+  source = { type = "table", direction = "vertical", column = "P", start_row = "6", end_row = "80" }
+  [[12577.mappings]]
+  type = "number"
+  destination = "data[].duplicated_area"
+  format = { type = "floor", args = { ndigits = 0 } }
+  source = { type = "table", direction = "vertical", column = "Q", start_row = "6", end_row = "80" }
+  [[12577.mappings]]
+  type = "string"
+  destination = "summary.duplicated_sum"
+  format = { type = "round", args = { ndigits = 0 } }
+  source = { type = "cell", cell = "N81" }
+  [[12577.mappings]]
+  type = "string"
+  destination = "summary.expected_capacity_sum"
+  format = { type = "round", args = { ndigits = 0 } }
+  source = { type = "cell", cell = "O81" }
+  [[12577.mappings]]
+  type = "string"
+  destination = "summary.area_sum"
+  format = { type = "round", args = { ndigits = 0 } }
+  source = { type = "cell", cell = "P81" }
+  [[12577.mappings]]
+  type = "string"
+  destination = "summary.duplicated_area_sum"
+  format = { type = "round", args = { ndigits = 0 } }
+  source = { type = "cell", cell = "Q81" }
+
+[12578]
+uri = "https://www.city-yuzawa.jp/uploaded/attachment/12578.xlsx"
+output_filename = "evacuation_2022"
+format_type = "json"
+sheet = 0
+  [[12578.mappings]]
+  type = "string"
+  destination = "source"
+  source = { type = "fixed", value = "Data by 湯沢市 - 指定避難所一覧(2016年8月23日現在) / クリエイティブ・コモンズ 表示 4.1日本" }
+  [[12578.mappings]]
+  type = "string"
+  destination = "header.no"
+  source = { type = "cell", cell = "A4" }
+  [[12578.mappings]]
+  type = "string"
+  destination = "header.name"
+  source = { type = "cell", cell = "B4" }
+  [[12578.mappings]]
+  type = "string"
+  destination = "header.name"
+  source = { type = "cell", cell = "C4" }
+  [[12578.mappings]]
+  type = "string"
+  destination = "header.contact_name"
+  source = { type = "cell", cell = "D4" }
+  [[12578.mappings]]
+  type = "string"
+  destination = "header.tel"
+  source = { type = "cell", cell = "D4" }
+  [[12578.mappings]]
+  type = "string"
+  destination = "header.duplicated"
+  source = { type = "cell", cell = "F4" }
+  [[12578.mappings]]
+  type = "string"
+  destination = "header.20_6_5"
+  source = { type = "cell", cell = "G4" }
+  [[12578.mappings]]
+  type = "string"
+  destination = "header.expected_capacity"
+  source = { type = "cell", cell = "H4" }
+  [[12578.mappings]]
+  type = "string"
+  destination = "header.area"
+  source = { type = "cell", cell = "I4" }
+  [[12578.mappings]]
+  type = "string"
+  destination = "header.location"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "J4" }
+  [[12578.mappings]]
+  type = "string"
+  destination = "header.target_area"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "K4" }
+  [[12578.mappings]]
+  type = "string"
+  destination = "header.containment_target_area"
+  source = { type = "cell", cell = "L4" }
+  [[12578.mappings]]
+  type = "string"
+  destination = "header.construction_date"
+  source = { type = "cell", cell = "M4" }
+  [[12578.mappings]]
+  type = "string"
+  destination = "header.reform"
+  source = { type = "cell", cell = "N4" }
+  [[12578.mappings]]
+  type = "string"
+  destination = "header.earthquake"
+  source = { type = "cell", cell = "O4" }
+  [[12578.mappings]]
+  type = "string"
+  destination = "header.flood"
+  source = { type = "cell", cell = "P4" }
+  [[12578.mappings]]
+  type = "string"
+  destination = "header.landslide"
+  source = { type = "cell", cell = "Q4" }
+  [[12578.mappings]]
+  type = "string"
+  destination = "meta.date"
+  source = { type = "cell", cell = "F2" }
+  [[12578.mappings]]
+  type = "string"
+  destination = "meta.city"
+  source = { type = "cell", cell = "G3" }
+  [[12578.mappings]]
+  type = "string"
+  destination = "meta.note"
+  source = { type = "fixed", value = "秋田県の地震被害想定調査（H25.8報告）によると「横手盆地真昼山連動(ﾏｸﾞﾆﾁｭｰﾄﾞ8.1、冬季、深夜)」地震が発生した場合、湯沢市において、発災４日後に「約人口の２割」の避難者が発生するとされている。" }
+  [[12578.mappings]]
+  type = "number"
+  destination = "data[].no"
+  format = { type = "floor", args = { ndigits = 0 } }
+  source = { type = "table", direction = "vertical", column = "A", start_row = "7", end_row = "39" }
+  [[12578.mappings]]
+  type = "string"
+  destination = "data[].name"
+  source = { type = "table", direction = "vertical", column = "B", start_row = "7", end_row = "39" }
+  [[12578.mappings]]
+  type = "string"
+  destination = "data[].address"
+  source = { type = "table", direction = "vertical", column = "C", start_row = "7", end_row = "39" }
+  [[12578.mappings]]
+  type = "string"
+  destination = "data[].contact_name"
+  source = { type = "table", direction = "vertical", column = "D", start_row = "7", end_row = "39" }
+  [[12578.mappings]]
+  type = "string"
+  destination = "data[].tel"
+  source = { type = "table", direction = "vertical", column = "E", start_row = "7", end_row = "39" }
+  [[12578.mappings]]
+  type = "boolean"
+  destination = "data[].duplicated"
+  source = { type = "table", direction = "vertical", column = "F", start_row = "7", end_row = "39" }
+  [[12578.mappings]]
+  type = "boolean"
+  destination = "data[].20_6_5"
+  source = { type = "table", direction = "vertical", column = "G", start_row = "7", end_row = "39" }
+  [[12578.mappings]]
+  type = "number"
+  destination = "data[].expected_capacity"
+  format = { type = "floor", args = { ndigits = 0 } }
+  source = { type = "table", direction = "vertical", column = "H", start_row = "7", end_row = "39" }
+  [[12578.mappings]]
+  type = "number"
+  destination = "data[].area"
+  format = { type = "floor", args = { ndigits = 0 } }
+  source = { type = "table", direction = "vertical", column = "I", start_row = "7", end_row = "39" }
+  [[12578.mappings]]
+  type = "string"
+  destination = "data[].location"
+  source = { type = "table", direction = "vertical", column = "J", start_row = "7", end_row = "39" }
+  [[12578.mappings]]
+  type = "string"
+  destination = "data[].target_area"
+  source = { type = "table", direction = "vertical", column = "K", start_row = "7", end_row = "39" }
+  [[12578.mappings]]
+  type = "string"
+  destination = "data[].containment_target_area"
+  source = { type = "table", direction = "vertical", column = "L", start_row = "7", end_row = "39" }
+  [[12578.mappings]]
+  type = "string"
+  destination = "data[].construction_date"
+  source = { type = "table", direction = "vertical", column = "M", start_row = "7", end_row = "39" }
+  [[12578.mappings]]
+  type = "string"
+  destination = "data[].reform"
+  source = { type = "table", direction = "vertical", column = "N", start_row = "7", end_row = "39" }
+  [[12578.mappings]]
+  type = "string"
+  destination = "data[].earthquake"
+  source = { type = "table", direction = "vertical", column = "O", start_row = "7", end_row = "39" }
+  [[12578.mappings]]
+  type = "string"
+  destination = "data[].flood"
+  source = { type = "table", direction = "vertical", column = "P", start_row = "7", end_row = "39" }
+  [[12578.mappings]]
+  type = "string"
+  destination = "data[].landslide"
+  source = { type = "table", direction = "vertical", column = "Q", start_row = "7", end_row = "39" }
+  [[12578.mappings]]
+  type = "string"
+  destination = "summary.duplicated_sum"
+  source = { type = "cell", cell = "F40" }
+  [[12578.mappings]]
+  type = "string"
+  destination = "summary.expected_capacity_sum"
+  source = { type = "cell", cell = "H40" }
+  [[12578.mappings]]
+  type = "string"
+  destination = "summary.area_sum"
+  source = { type = "cell", cell = "I40" }
+
+[17995]
+uri = "https://www.city-yuzawa.jp/uploaded/attachment/17995.xlsx"
+output_filename = "medical_institutions_2022"
+format_type = "json"
+sheet = 0
+  [[17995.mappings]]
+  type = "string"
+  destination = "source"
+  source = { type = "fixed", value = "Data by 湯沢市 - 令和4年度　個別予防接種協力医療機関 / クリエイティブ・コモンズ 表示 4.1日本" }
+  [[17995.mappings]]
+  type = "string"
+  destination = "header.no"
+  format = { type = "replace", args = { src = "\n", dist = "" } }
+  source = { type = "cell", cell = "A1" }
+  [[17995.mappings]]
+  type = "string"
+  destination = "header.name"
+  format = { type = "replace", args = { src = "\n", dist = "" } }
+  source = { type = "cell", cell = "B1" }
+  [[17995.mappings]]
+  type = "string"
+  destination = "header.zipcode"
+  format = { type = "replace", args = { src = "\n", dist = "" } }
+  source = { type = "cell", cell = "C1" }
+  [[17995.mappings]]
+  type = "string"
+  destination = "header.address"
+  format = { type = "replace", args = { src = "\n", dist = "" } }
+  source = { type = "cell", cell = "D1" }
+  [[17995.mappings]]
+  type = "string"
+  destination = "header.tel"
+  format = { type = "replace", args = { src = "\n", dist = "" } }
+  source = { type = "cell", cell = "E1" }
+  [[17995.mappings]]
+  type = "string"
+  destination = "header.yonshu"
+  format = { type = "replace", args = { src = "\n", dist = "" } }
+  source = { type = "cell", cell = "F1" }
+  [[17995.mappings]]
+  type = "string"
+  destination = "header.sanshu"
+  format = { type = "replace", args = { src = "\n", dist = "" } }
+  source = { type = "cell", cell = "G1" }
+  [[17995.mappings]]
+  type = "string"
+  destination = "header.nishu"
+  format = { type = "replace", args = { src = "\n", dist = "" } }
+  source = { type = "cell", cell = "H1" }
+  [[17995.mappings]]
+  type = "string"
+  destination = "header.fukatsupori"
+  format = { type = "replace", args = { src = "\n", dist = "" } }
+  source = { type = "cell", cell = "I1" }
+  [[17995.mappings]]
+  type = "string"
+  destination = "header.mr"
+  format = { type = "replace", args = { src = "\n", dist = "" } }
+  source = { type = "cell", cell = "J1" }
+  [[17995.mappings]]
+  type = "string"
+  destination = "header.matan"
+  format = { type = "replace", args = { src = "\n", dist = "" } }
+  source = { type = "cell", cell = "K1" }
+  [[17995.mappings]]
+  type = "string"
+  destination = "header.futan"
+  format = { type = "replace", args = { src = "\n", dist = "" } }
+  source = { type = "cell", cell = "L1" }
+  [[17995.mappings]]
+  type = "string"
+  destination = "header.nihonnouen"
+  format = { type = "replace", args = { src = "\n", dist = "" } }
+  source = { type = "cell", cell = "M1" }
+  [[17995.mappings]]
+  type = "string"
+  destination = "header.bcg"
+  format = { type = "replace", args = { src = "\n", dist = "" } }
+  source = { type = "cell", cell = "N1" }
+  [[17995.mappings]]
+  type = "string"
+  destination = "header.hib"
+  format = { type = "replace", args = { src = "\n", dist = "" } }
+  source = { type = "cell", cell = "O1" }
+  [[17995.mappings]]
+  type = "string"
+  destination = "header.shohaikyu"
+  format = { type = "replace", args = { src = "\n", dist = "" } }
+  source = { type = "cell", cell = "P1" }
+  [[17995.mappings]]
+  type = "string"
+  destination = "header.hpv"
+  format = { type = "replace", args = { src = "\n", dist = "" } }
+  source = { type = "cell", cell = "Q1" }
+  [[17995.mappings]]
+  type = "string"
+  destination = "header.suito"
+  format = { type = "replace", args = { src = "\n", dist = "" } }
+  source = { type = "cell", cell = "R1" }
+  [[17995.mappings]]
+  type = "string"
+  destination = "header.bkan"
+  format = { type = "replace", args = { src = "\n", dist = "" } }
+  source = { type = "cell", cell = "S1" }
+  [[17995.mappings]]
+  type = "string"
+  destination = "header.rota"
+  format = { type = "replace", args = { src = "\n", dist = "" } }
+  source = { type = "cell", cell = "T1" }
+  [[17995.mappings]]
+  type = "string"
+  destination = "header.infu"
+  format = { type = "replace", args = { src = "\n", dist = "" } }
+  source = { type = "cell", cell = "U1" }
+  [[17995.mappings]]
+  type = "string"
+  destination = "header.kohaien"
+  format = { type = "replace", args = { src = "\n", dist = "" } }
+  source = { type = "cell", cell = "V1" }
+  [[17995.mappings]]
+  type = "string"
+  destination = "header.note"
+  format = { type = "replace", args = { src = "\n", dist = "" } }
+  source = { type = "cell", cell = "W1" }
+  [[17995.mappings]]
+  type = "number"
+  destination = "data[].no"
+  format = { type = "floor", args = { ndigits = 0 } }
+  source = { type = "table", direction = "vertical", column = "A", start_row = "2" }
+  [[17995.mappings]]
+  type = "string"
+  destination = "data[].name"
+  source = { type = "table", direction = "vertical", column = "B", start_row = "2" }
+  [[17995.mappings]]
+  type = "string"
+  destination = "data[].zipcode"
+  source = { type = "table", direction = "vertical", column = "C", start_row = "2" }
+  [[17995.mappings]]
+  type = "string"
+  destination = "data[].address"
+  source = { type = "table", direction = "vertical", column = "D", start_row = "2" }
+  [[17995.mappings]]
+  type = "string"
+  destination = "data[].tel"
+  source = { type = "table", direction = "vertical", column = "E", start_row = "2" }
+  [[17995.mappings]]
+  type = "string"
+  destination = "data[].yonshu"
+  format = { type = "replace", args = { src = "〇", dist = "○" } }
+  source = { type = "table", direction = "vertical", column = "F", start_row = "2" }
+  [[17995.mappings]]
+  type = "string"
+  destination = "data[].sanshu"
+  format = { type = "replace", args = { src = "〇", dist = "○" } }
+  source = { type = "table", direction = "vertical", column = "G", start_row = "2" }
+  [[17995.mappings]]
+  type = "string"
+  destination = "data[].nishu"
+  format = { type = "replace", args = { src = "〇", dist = "○" } }
+  source = { type = "table", direction = "vertical", column = "H", start_row = "2" }
+  [[17995.mappings]]
+  type = "string"
+  destination = "data[].fukatsupori"
+  format = { type = "replace", args = { src = "〇", dist = "○" } }
+  source = { type = "table", direction = "vertical", column = "I", start_row = "2" }
+  [[17995.mappings]]
+  type = "string"
+  destination = "data[].mr"
+  format = { type = "replace", args = { src = "〇", dist = "○" } }
+  source = { type = "table", direction = "vertical", column = "J", start_row = "2" }
+  [[17995.mappings]]
+  type = "string"
+  destination = "data[].matan"
+  format = { type = "replace", args = { src = "〇", dist = "○" } }
+  source = { type = "table", direction = "vertical", column = "K", start_row = "2" }
+  [[17995.mappings]]
+  type = "string"
+  destination = "data[].futan"
+  format = { type = "replace", args = { src = "〇", dist = "○" } }
+  source = { type = "table", direction = "vertical", column = "L", start_row = "2" }
+  [[17995.mappings]]
+  type = "string"
+  destination = "data[].nihonnouen"
+  format = { type = "replace", args = { src = "〇", dist = "○" } }
+  source = { type = "table", direction = "vertical", column = "M", start_row = "2" }
+  [[17995.mappings]]
+  type = "string"
+  destination = "data[].bcg"
+  format = { type = "replace", args = { src = "〇", dist = "○" } }
+  source = { type = "table", direction = "vertical", column = "N", start_row = "2" }
+  [[17995.mappings]]
+  type = "string"
+  destination = "data[].hib"
+  format = { type = "replace", args = { src = "〇", dist = "○" } }
+  source = { type = "table", direction = "vertical", column = "O", start_row = "2" }
+  [[17995.mappings]]
+  type = "string"
+  destination = "data[].shohaikyu"
+  format = { type = "replace", args = { src = "〇", dist = "○" } }
+  source = { type = "table", direction = "vertical", column = "P", start_row = "2" }
+  [[17995.mappings]]
+  type = "string"
+  destination = "data[].hpv"
+  format = { type = "replace", args = { src = "〇", dist = "○" } }
+  source = { type = "table", direction = "vertical", column = "Q", start_row = "2" }
+  [[17995.mappings]]
+  type = "string"
+  destination = "data[].suito"
+  format = { type = "replace", args = { src = "〇", dist = "○" } }
+  source = { type = "table", direction = "vertical", column = "R", start_row = "2" }
+  [[17995.mappings]]
+  type = "string"
+  destination = "data[].bkan"
+  format = { type = "replace", args = { src = "〇", dist = "○" } }
+  source = { type = "table", direction = "vertical", column = "S", start_row = "2" }
+  [[17995.mappings]]
+  type = "string"
+  destination = "data[].rota"
+  format = { type = "replace", args = { src = "〇", dist = "○" } }
+  source = { type = "table", direction = "vertical", column = "T", start_row = "2" }
+  [[17995.mappings]]
+  type = "string"
+  destination = "data[].infu"
+  format = { type = "replace", args = { src = "〇", dist = "○" } }
+  source = { type = "table", direction = "vertical", column = "U", start_row = "2" }
+  [[17995.mappings]]
+  type = "string"
+  destination = "data[].kohaien"
+  format = { type = "replace", args = { src = "〇", dist = "○" } }
+  source = { type = "table", direction = "vertical", column = "V", start_row = "2" }
+  [[17995.mappings]]
+  type = "string"
+  destination = "data[].note"
+  source = { type = "table", direction = "vertical", column = "W", start_row = "2" }
+
+[18212]
+uri = "https://www.city-yuzawa.jp/uploaded/attachment/18212.xlsx"
+output_filename = "educational_institutions_2022"
+format_type = "json"
+sheet = 0
+  [[18212.mappings]]
+  type = "string"
+  destination = "source"
+  source = { type = "fixed", value = "Data by 湯沢市 - 教育委員会所管施設一覧 / クリエイティブ・コモンズ 表示 4.1日本" }
+  [[18212.mappings]]
+  type = "string"
+  destination = "header.category"
+  source = { type = "cell", cell = "A1" }
+  [[18212.mappings]]
+  type = "string"
+  destination = "header.name"
+  source = { type = "cell", cell = "B1" }
+  [[18212.mappings]]
+  type = "string"
+  destination = "header.zipcode"
+  source = { type = "cell", cell = "C1" }
+  [[18212.mappings]]
+  type = "string"
+  destination = "header.address"
+  source = { type = "cell", cell = "D1" }
+  [[18212.mappings]]
+  type = "string"
+  destination = "header.tel"
+  source = { type = "cell", cell = "E1" }
+  [[18212.mappings]]
+  type = "string"
+  destination = "header.note"
+  source = { type = "cell", cell = "F1" }
+  [[18212.mappings]]
+  type = "string"
+  destination = "data[].category"
+  source = { type = "table", direction = "vertical", column = "A", start_row = "2" }
+  [[18212.mappings]]
+  type = "string"
+  destination = "data[].name"
+  source = { type = "table", direction = "vertical", column = "B", start_row = "2" }
+  [[18212.mappings]]
+  type = "string"
+  destination = "data[].zipcode"
+  source = { type = "table", direction = "vertical", column = "C", start_row = "2" }
+  [[18212.mappings]]
+  type = "string"
+  destination = "data[].address"
+  source = { type = "table", direction = "vertical", column = "D", start_row = "2" }
+  [[18212.mappings]]
+  type = "string"
+  destination = "data[].tel"
+  source = { type = "table", direction = "vertical", column = "E", start_row = "2" }
+  [[18212.mappings]]
+  type = "string"
+  destination = "data[].note"
+  source = { type = "table", direction = "vertical", column = "F", start_row = "2" }

@@ -1,0 +1,1705 @@
+[12574]
+uri = "https://www.city-yuzawa.jp/uploaded/attachment/12574.xlsx"
+output_filename = "social_welfare_facilties_2022"
+format_type = "json"
+sheet = 0
+  [[12574.mappings]]
+  type = "string"
+  destination = "source"
+  source = { type = "fixed", value = "Data by 湯沢市 - 湯沢市の社会福祉施設 / クリエイティブ・コモンズ 表示 4.1日本" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "index.data_01"
+  format = { type = "replace", args = { src = "□", dist = "" } }
+  source = { type = "cell", cell = "A4" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "index.data_02"
+  format = { type = "replace", args = { src = "□", dist = "" } }
+  source = { type = "cell", cell = "A8" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "index.data_03"
+  format = { type = "replace", args = { src = "□", dist = "" } }
+  source = { type = "cell", cell = "A19" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "index.data_04"
+  format = { type = "replace", args = { src = "□", dist = "" } }
+  source = { type = "cell", cell = "A26" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "index.data_05"
+  format = { type = "replace", args = { src = "□", dist = "" } }
+  source = { type = "cell", cell = "A29" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "index.data_06"
+  format = { type = "replace", args = { src = "□", dist = "" } }
+  source = { type = "cell", cell = "A45" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "index.data_07"
+  format = { type = "replace", args = { src = "□", dist = "" } }
+  source = { type = "cell", cell = "A56" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "index.data_08"
+  format = { type = "replace", args = { src = "□", dist = "" } }
+  source = { type = "cell", cell = "A64" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "index.data_09"
+  format = { type = "replace", args = { src = "□", dist = "" } }
+  source = { type = "cell", cell = "A67" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "index.data_10"
+  format = { type = "replace", args = { src = "□", dist = "" } }
+  source = { type = "cell", cell = "A78" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "index.data_11"
+  format = { type = "replace", args = { src = "□", dist = "" } }
+  source = { type = "cell", cell = "A96" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "index.data_12"
+  format = { type = "replace", args = { src = "□", dist = "" } }
+  source = { type = "cell", cell = "A103" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "index.data_13"
+  format = { type = "replace", args = { src = "□", dist = "" } }
+  source = { type = "cell", cell = "A109" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "index.data_14"
+  format = { type = "replace", args = { src = "□", dist = "" } }
+  source = { type = "cell", cell = "A114" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "index.data_15"
+  format = { type = "replace", args = { src = "□", dist = "" } }
+  source = { type = "cell", cell = "A120" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "index.data_16"
+  format = { type = "replace", args = { src = "□", dist = "" } }
+  source = { type = "cell", cell = "A124" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "index.data_17"
+  format = { type = "replace", args = { src = "□", dist = "" } }
+  source = { type = "cell", cell = "A129" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "index.data_18"
+  format = { type = "replace", args = { src = "□", dist = "" } }
+  source = { type = "cell", cell = "A133" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "index.data_19"
+  format = { type = "replace", args = { src = "□", dist = "" } }
+  source = { type = "cell", cell = "A137" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "index.data_20"
+  format = { type = "replace", args = { src = "□", dist = "" } }
+  source = { type = "cell", cell = "A152" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "index.data_21"
+  format = { type = "replace", args = { src = "□", dist = "" } }
+  source = { type = "cell", cell = "A162" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "index.data_22"
+  format = { type = "replace", args = { src = "□", dist = "" } }
+  source = { type = "cell", cell = "A166" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "index.data_23"
+  format = { type = "replace", args = { src = "□", dist = "" } }
+  source = { type = "cell", cell = "A170" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "index.data_24"
+  format = { type = "replace", args = { src = "□", dist = "" } }
+  source = { type = "cell", cell = "A181" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "index.data_25"
+  format = { type = "replace", args = { src = "□", dist = "" } }
+  source = { type = "cell", cell = "A189" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "index.data_26"
+  format = { type = "replace", args = { src = "□", dist = "" } }
+  source = { type = "cell", cell = "A198" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "index.data_27"
+  format = { type = "replace", args = { src = "□", dist = "" } }
+  source = { type = "cell", cell = "A204" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "index.data_28"
+  format = { type = "replace", args = { src = "□", dist = "" } }
+  source = { type = "cell", cell = "A210" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "header.data_01.name"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "A5" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "header.data_01.address"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "B5" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "header.data_01.tel"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "C5" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "header.data_01.fax"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "D5" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "header.data_01.start_date"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "E5" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "header.data_01.area"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "F5" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "header.data_01.capacity"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "G5" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "header.data_02.name"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "A9" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "header.data_02.address"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "B9" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "header.data_02.tel"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "C9" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "header.data_02.fax"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "D9" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "header.data_02.start_date"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "E9" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "header.data_02.area"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "F9" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "header.data_02.capacity"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "G9" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "header.data_03.name"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "A20" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "header.data_03.address"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "B20" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "header.data_03.tel"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "C20" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "header.data_03.fax"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "D20" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "header.data_03.start_date"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "E20" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "header.data_03.capacity"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "F20" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "header.data_04.name"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "A27" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "header.data_04.address"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "B27" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "header.data_04.tel"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "C27" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "header.data_04.fax"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "D27" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "header.data_04.start_date"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "E27" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "header.data_04.capacity"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "F27" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "header.data_05.name"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "A30" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "header.data_05.address"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "B30" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "header.data_05.tel"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "C30" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "header.data_05.fax"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "D30" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "header.data_05.start_date"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "E30" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "header.data_05.capacity"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "F30" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "header.data_06.name"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "A46" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "header.data_06.address"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "B46" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "header.data_06.tel"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "C46" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "header.data_06.fax"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "D46" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "header.data_06.start_date"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "E46" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "header.data_06.capacity"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "F46" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "header.data_07.name"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "A57" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "header.data_07.address"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "B57" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "header.data_07.tel"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "C57" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "header.data_07.fax"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "D57" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "header.data_07.start_date"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "E57" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "header.data_07.capacity"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "F57" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "header.data_08.name"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "A65" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "header.data_08.address"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "B65" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "header.data_08.tel"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "C65" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "header.data_08.fax"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "D65" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "header.data_08.start_date"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "E65" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "header.data_08.capacity"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "F65" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "header.data_09.name"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "A68" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "header.data_09.address"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "B68" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "header.data_09.tel"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "C68" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "header.data_09.fax"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "D68" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "header.data_09.start_date"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "E68" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "header.data_09.capacity"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "F68" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "header.data_10.name"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "A79" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "header.data_10.address"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "B79" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "header.data_10.tel"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "C79" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "header.data_10.fax"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "D79" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "header.data_10.start_date"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "E79" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "header.data_10.area"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "F79" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "header.data_10.capacity"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "G79" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "header.data_11.name"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "A97" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "header.data_11.address"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "B97" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "header.data_11.tel"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "C97" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "header.data_11.start_date"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "D97" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "header.data_11.area"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "E97" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "header.data_12.name"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "A104" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "header.data_12.address"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "B104" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "header.data_12.tel"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "C104" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "header.data_12.start_date"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "D104" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "header.data_12.area"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "E104" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "header.data_12.capacity"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "F104" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "header.data_13.name"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "A110" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "header.data_13.address"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "B110" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "header.data_13.tel"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "C110" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "header.data_13.start_date"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "D110" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "header.data_13.area"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "E110" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "header.data_14.name"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "A115" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "header.data_14.address"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "B115" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "header.data_14.tel"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "C115" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "header.data_14.start_date"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "D115" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "header.data_14.area"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "E115" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "header.data_15.name"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "A121" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "header.data_15.address"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "B121" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "header.data_15.tel"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "C121" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "header.data_15.start_date"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "D121" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "header.data_15.area"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "E121" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "header.data_15.capacity"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "E121" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "header.data_16.name"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "A125" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "header.data_16.address"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "B125" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "header.data_16.tel"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "C125" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "header.data_16.start_date"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "D125" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "header.data_16.area"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "E125" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "header.data_16.note"
+  source = { type = "fixed", value = "" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "header.data_17.name"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "A130" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "header.data_17.address"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "B130" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "header.data_17.tel"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "C130" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "header.data_17.start_date"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "D130" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "header.data_17.area"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "E130" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "header.data_17.capacity"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "F130" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "header.data_18.name"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "A134" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "header.data_18.address"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "B134" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "header.data_18.tel"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "C134" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "header.data_18.start_date"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "D134" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "header.data_18.capacity"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "E134" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "header.data_19.name"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "A134" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "header.data_19.address"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "B134" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "header.data_19.tel"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "C134" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "header.data_19.start_date"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "D134" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "header.data_19.capacity"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "E134" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "header.data_20.name"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "A153" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "header.data_20.address"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "B153" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "header.data_20.tel"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "C153" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "header.data_20.start_date"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "D153" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "header.data_20.capacity"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "E153" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "header.data_21.name"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "A163" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "header.data_21.address"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "B163" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "header.data_21.tel"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "C163" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "header.data_21.start_date"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "D163" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "header.data_21.capacity"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "E163" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "header.data_22.name"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "A167" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "header.data_22.address"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "B167" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "header.data_22.tel"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "C167" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "header.data_22.start_date"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "D167" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "header.data_22.capacity"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "E167" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "header.data_23.name"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "A171" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "header.data_23.address"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "B171" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "header.data_23.tel"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "C171" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "header.data_23.fax"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "D171" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "header.data_23.start_date"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "E171" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "header.data_24.name"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "A182" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "header.data_24.address"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "B182" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "header.data_24.tel"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "C182" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "header.data_24.fax"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "D182" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "header.data_24.start_date"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "E182" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "header.data_25.name"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "A190" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "header.data_25.address"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "B190" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "header.data_25.tel"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "C190" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "header.data_25.fax"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "D190" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "header.data_25.start_date"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "E190" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "header.data_26.name"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "A199" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "header.data_26.address"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "B199" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "header.data_26.tel"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "C199" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "header.data_26.start_date"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "D199" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "header.data_26.area"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "E199" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "header.data_27.name"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "A205" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "header.data_27.address"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "B205" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "header.data_27.tel"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "C205" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "header.data_27.start_date"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "D205" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "header.data_27.area"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "E205" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "header.data_28.name"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "A211" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "header.data_28.address"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "B211" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "header.data_28.tel"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "C211" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "header.data_28.start_date"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "D211" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "header.data_28.area"
+  format = { type = "replace", args = { src = "　", dist = "" } }
+  source = { type = "cell", cell = "E211" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "data_01[].name"
+  source = { type = "table", direction = "vertical", column = "A", start_row = "6", end_row = "6" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "data_01[].address"
+  source = { type = "table", direction = "vertical", column = "B", start_row = "6", end_row = "6" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "data_01[].tel"
+  source = { type = "table", direction = "vertical", column = "C", start_row = "6", end_row = "6" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "data_01[].fax"
+  source = { type = "table", direction = "vertical", column = "D", start_row = "6", end_row = "6" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "data_01[].start_date"
+  source = { type = "table", direction = "vertical", column = "E", start_row = "6", end_row = "6" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "data_01[].area"
+  source = { type = "table", direction = "vertical", column = "F", start_row = "6", end_row = "6" }
+  [[12574.mappings]]
+  type = "number"
+  destination = "data_01[].capacity"
+  format = { type = "floor", args = { ndigits = 0 } }
+  source = { type = "table", direction = "vertical", column = "G", start_row = "6", end_row = "6" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "data_02[].name"
+    [12574.mappings.source]
+    type = "merge"
+    refs = [{ type = "table", direction = "vertical", column = "A", start_row = "10", end_row = "15", skip = 2 }, { type = "table", direction = "vertical", column = "A", start_row = "16", end_row = "17" }]
+  [[12574.mappings]]
+  type = "string"
+  destination = "data_02[].address"
+    [12574.mappings.source]
+    type = "merge"
+    refs = [{ type = "table", direction = "vertical", column = "B", start_row = "10", end_row = "15", skip = 2 }, { type = "table", direction = "vertical", column = "B", start_row = "16", end_row = "17" }]
+  [[12574.mappings]]
+  type = "string"
+  destination = "data_02[].tel"
+    [12574.mappings.source]
+    type = "merge"
+    refs = [{ type = "table", direction = "vertical", column = "C", start_row = "10", end_row = "15", skip = 2 }, { type = "table", direction = "vertical", column = "C", start_row = "16", end_row = "17" }]
+  [[12574.mappings]]
+  type = "string"
+  destination = "data_02[].fax"
+    [12574.mappings.source]
+    type = "merge"
+    refs = [{ type = "table", direction = "vertical", column = "D", start_row = "10", end_row = "15", skip = 2 }, { type = "table", direction = "vertical", column = "D", start_row = "16", end_row = "17" }]
+  [[12574.mappings]]
+  type = "string"
+  destination = "data_02[].start_date"
+    [12574.mappings.source]
+    type = "merge"
+    refs = [{ type = "table", direction = "vertical", column = "E", start_row = "10", end_row = "15", skip = 2 }, { type = "table", direction = "vertical", column = "E", start_row = "16", end_row = "17" }]
+  [[12574.mappings]]
+  type = "string"
+  destination = "data_02[].area"
+    [12574.mappings.source]
+    type = "merge"
+    refs = [{ type = "table", direction = "vertical", column = "F", start_row = "10", end_row = "15", skip = 2 }, { type = "table", direction = "vertical", column = "F", start_row = "16", end_row = "17" }]
+  [[12574.mappings]]
+  type = "number"
+  destination = "data_02[].capacity"
+  format = { type = "floor", args = { ndigits = 0 } }
+    [12574.mappings.source]
+    type = "merge"
+    refs = [{ type = "table", direction = "vertical", column = "G", start_row = "10", end_row = "15", skip = 2 }, { type = "table", direction = "vertical", column = "G", start_row = "16", end_row = "17" }]
+  [[12574.mappings]]
+  type = "string"
+  destination = "data_03[].name"
+  source = { type = "table", direction = "vertical", column = "A", start_row = "21", end_row = "24" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "data_03[].address"
+  source = { type = "table", direction = "vertical", column = "B", start_row = "21", end_row = "24" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "data_03[].tel"
+  source = { type = "table", direction = "vertical", column = "C", start_row = "21", end_row = "24" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "data_03[].fax"
+  source = { type = "table", direction = "vertical", column = "D", start_row = "21", end_row = "24" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "data_03[].start_date"
+  source = { type = "table", direction = "vertical", column = "E", start_row = "21", end_row = "24" }
+  [[12574.mappings]]
+  type = "number"
+  destination = "data_03[].capacity"
+  format = { type = "floor", args = { ndigits = 0 } }
+  source = { type = "table", direction = "vertical", column = "F", start_row = "21", end_row = "24" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "data_04[].name"
+  source = { type = "table", direction = "vertical", column = "A", start_row = "28", end_row = "28" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "data_04[].address"
+  source = { type = "table", direction = "vertical", column = "B", start_row = "28", end_row = "28" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "data_04[].tel"
+  source = { type = "table", direction = "vertical", column = "C", start_row = "28", end_row = "28" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "data_04[].fax"
+  source = { type = "table", direction = "vertical", column = "D", start_row = "28", end_row = "28" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "data_04[].start_date"
+  source = { type = "table", direction = "vertical", column = "E", start_row = "28", end_row = "28" }
+  [[12574.mappings]]
+  type = "number"
+  destination = "data_04[].capacity"
+  format = { type = "floor", args = { ndigits = 0 } }
+  source = { type = "table", direction = "vertical", column = "F", start_row = "28", end_row = "28" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "data_05[].name"
+  source = { type = "table", direction = "vertical", column = "A", start_row = "31", end_row = "43", skip_if_empty = true }
+  [[12574.mappings]]
+  type = "string"
+  destination = "data_05[].address"
+  source = { type = "table", direction = "vertical", column = "B", start_row = "31", end_row = "43", skip_if_empty = true }
+  [[12574.mappings]]
+  type = "string"
+  destination = "data_05[].tel"
+  source = { type = "table", direction = "vertical", column = "C", start_row = "31", end_row = "43", skip_if_empty = true }
+  [[12574.mappings]]
+  type = "string"
+  destination = "data_05[].fax"
+  source = { type = "table", direction = "vertical", column = "D", start_row = "31", end_row = "43", skip_if_empty = true }
+  [[12574.mappings]]
+  type = "string"
+  destination = "data_05[].start_date"
+  source = { type = "table", direction = "vertical", column = "E", start_row = "31", end_row = "43", skip_if_empty = true }
+  [[12574.mappings]]
+  type = "number"
+  destination = "data_05[].capacity"
+  format = { type = "floor", args = { ndigits = 0 } }
+  source = { type = "table", direction = "vertical", column = "F", start_row = "31", end_row = "43", skip_if_empty = true }
+  [[12574.mappings]]
+  type = "string"
+  destination = "data_06[].name"
+  source = { type = "table", direction = "vertical", column = "A", start_row = "47", end_row = "54" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "data_06[].address"
+  source = { type = "table", direction = "vertical", column = "B", start_row = "47", end_row = "54" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "data_06[].tel"
+  source = { type = "table", direction = "vertical", column = "C", start_row = "47", end_row = "54" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "data_06[].fax"
+  source = { type = "table", direction = "vertical", column = "D", start_row = "47", end_row = "54" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "data_06[].start_date"
+  source = { type = "table", direction = "vertical", column = "E", start_row = "47", end_row = "54" }
+  [[12574.mappings]]
+  type = "number"
+  destination = "data_06[].capacity"
+  format = { type = "floor", args = { ndigits = 0 } }
+  source = { type = "table", direction = "vertical", column = "F", start_row = "47", end_row = "54" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "data_07[].name"
+  source = { type = "table", direction = "vertical", column = "A", start_row = "58", end_row = "62" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "data_07[].address"
+  source = { type = "table", direction = "vertical", column = "B", start_row = "58", end_row = "62" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "data_07[].tel"
+  source = { type = "table", direction = "vertical", column = "C", start_row = "58", end_row = "62" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "data_07[].fax"
+  source = { type = "table", direction = "vertical", column = "D", start_row = "58", end_row = "62" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "data_07[].start_date"
+  source = { type = "table", direction = "vertical", column = "E", start_row = "58", end_row = "62" }
+  [[12574.mappings]]
+  type = "number"
+  destination = "data_07[].capacity"
+  format = { type = "floor", args = { ndigits = 0 } }
+  source = { type = "table", direction = "vertical", column = "F", start_row = "58", end_row = "62" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "data_08[].name"
+  source = { type = "table", direction = "vertical", column = "A", start_row = "66", end_row = "66" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "data_08[].address"
+  source = { type = "table", direction = "vertical", column = "B", start_row = "66", end_row = "66" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "data_08[].tel"
+  source = { type = "table", direction = "vertical", column = "C", start_row = "66", end_row = "66" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "data_08[].fax"
+  source = { type = "table", direction = "vertical", column = "D", start_row = "66", end_row = "66" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "data_08[].start_date"
+  source = { type = "table", direction = "vertical", column = "E", start_row = "66", end_row = "66" }
+  [[12574.mappings]]
+  type = "number"
+  destination = "data_08[].capacity"
+  format = { type = "floor", args = { ndigits = 0 } }
+  source = { type = "table", direction = "vertical", column = "F", start_row = "66", end_row = "66" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "data_09[].name"
+  source = { type = "table", direction = "vertical", column = "A", start_row = "69", end_row = "76", skip_if_empty = true }
+  [[12574.mappings]]
+  type = "string"
+  destination = "data_09[].address"
+  source = { type = "table", direction = "vertical", column = "B", start_row = "69", end_row = "76", skip_if_empty = true }
+  [[12574.mappings]]
+  type = "string"
+  destination = "data_09[].tel"
+  source = { type = "table", direction = "vertical", column = "C", start_row = "69", end_row = "76", skip_if_empty = true }
+  [[12574.mappings]]
+  type = "string"
+  destination = "data_09[].fax"
+  source = { type = "table", direction = "vertical", column = "D", start_row = "69", end_row = "76", skip_if_empty = true }
+  [[12574.mappings]]
+  type = "string"
+  destination = "data_09[].start_date"
+  source = { type = "table", direction = "vertical", column = "E", start_row = "69", end_row = "76", skip_if_empty = true }
+  [[12574.mappings]]
+  type = "number"
+  destination = "data_09[].capacity"
+  format = { type = "floor", args = { ndigits = 0 } }
+  source = { type = "table", direction = "vertical", column = "F", start_row = "69", end_row = "76", skip_if_empty = true }
+  [[12574.mappings]]
+  type = "string"
+  destination = "data_10[].name"
+    [12574.mappings.source]
+    type = "merge"
+      [[12574.mappings.source.refs]]
+      type = "table"
+      direction = "vertical"
+      column = "A"
+      start_row = "80"
+      end_row = "82"
+      [[12574.mappings.source.refs]]
+      type = "join"
+      delimiter = " "
+      refs = [{ type = "cell", cell = "A83" }, { type = "cell", cell = "A84" }]
+      [[12574.mappings.source.refs]]
+      type = "table"
+      direction = "vertical"
+      column = "A"
+      start_row = "85"
+      end_row = "94"
+  [[12574.mappings]]
+  type = "string"
+  destination = "data_10[].address"
+    [12574.mappings.source]
+    type = "merge"
+      [[12574.mappings.source.refs]]
+      type = "table"
+      direction = "vertical"
+      column = "B"
+      start_row = "80"
+      end_row = "83"
+      [[12574.mappings.source.refs]]
+      type = "table"
+      direction = "vertical"
+      column = "B"
+      start_row = "85"
+      end_row = "94"
+  [[12574.mappings]]
+  type = "string"
+  destination = "data_10[].tel"
+    [12574.mappings.source]
+    type = "merge"
+      [[12574.mappings.source.refs]]
+      type = "table"
+      direction = "vertical"
+      column = "C"
+      start_row = "80"
+      end_row = "83"
+      [[12574.mappings.source.refs]]
+      type = "table"
+      direction = "vertical"
+      column = "C"
+      start_row = "85"
+      end_row = "94"
+  [[12574.mappings]]
+  type = "string"
+  destination = "data_10[].fax"
+    [12574.mappings.source]
+    type = "merge"
+      [[12574.mappings.source.refs]]
+      type = "table"
+      direction = "vertical"
+      column = "D"
+      start_row = "80"
+      end_row = "83"
+      [[12574.mappings.source.refs]]
+      type = "table"
+      direction = "vertical"
+      column = "D"
+      start_row = "85"
+      end_row = "94"
+  [[12574.mappings]]
+  type = "string"
+  destination = "data_10[].start_date"
+    [12574.mappings.source]
+    type = "merge"
+      [[12574.mappings.source.refs]]
+      type = "table"
+      direction = "vertical"
+      column = "E"
+      start_row = "80"
+      end_row = "83"
+      [[12574.mappings.source.refs]]
+      type = "table"
+      direction = "vertical"
+      column = "E"
+      start_row = "85"
+      end_row = "94"
+  [[12574.mappings]]
+  type = "string"
+  destination = "data_10[].area"
+  format = { type = "replace", args = { src = " ", dist = "" } }
+    [12574.mappings.source]
+    type = "merge"
+      [[12574.mappings.source.refs]]
+      type = "table"
+      direction = "vertical"
+      column = "F"
+      start_row = "80"
+      end_row = "83"
+      [[12574.mappings.source.refs]]
+      type = "table"
+      direction = "vertical"
+      column = "F"
+      start_row = "85"
+      end_row = "94"
+  [[12574.mappings]]
+  type = "number"
+  destination = "data_10[].capacity"
+  format = { type = "floor", args = { ndigits = 0 } }
+    [12574.mappings.source]
+    type = "merge"
+      [[12574.mappings.source.refs]]
+      type = "table"
+      direction = "vertical"
+      column = "G"
+      start_row = "80"
+      end_row = "83"
+      [[12574.mappings.source.refs]]
+      type = "table"
+      direction = "vertical"
+      column = "G"
+      start_row = "85"
+      end_row = "94"
+  [[12574.mappings]]
+  type = "string"
+  destination = "data_11[].name"
+  source = { type = "table", direction = "vertical", column = "A", start_row = "98", end_row = "102" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "data_11[].address"
+  source = { type = "table", direction = "vertical", column = "B", start_row = "98", end_row = "102" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "data_11[].tel"
+  source = { type = "table", direction = "vertical", column = "C", start_row = "98", end_row = "102" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "data_11[].start_date"
+  source = { type = "table", direction = "vertical", column = "D", start_row = "98", end_row = "102" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "data_11[].area"
+  format = { type = "replace", args = { src = " ", dist = "" } }
+  source = { type = "table", direction = "vertical", column = "E", start_row = "98", end_row = "102" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "data_12[].name"
+  source = { type = "table", direction = "vertical", column = "A", start_row = "105", end_row = "107" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "data_12[].address"
+  source = { type = "table", direction = "vertical", column = "B", start_row = "105", end_row = "107" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "data_12[].tel"
+  source = { type = "table", direction = "vertical", column = "C", start_row = "105", end_row = "107" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "data_12[].start_date"
+  source = { type = "table", direction = "vertical", column = "D", start_row = "105", end_row = "107" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "data_12[].area"
+  format = { type = "replace", args = { src = " ", dist = "" } }
+  source = { type = "table", direction = "vertical", column = "E", start_row = "105", end_row = "107" }
+  [[12574.mappings]]
+  type = "number"
+  destination = "data_12[].capacity"
+  format = { type = "floor", args = { ndigits = 0 } }
+  source = { type = "table", direction = "vertical", column = "F", start_row = "105", end_row = "107" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "data_13[].name"
+  source = { type = "table", direction = "vertical", column = "A", start_row = "111", end_row = "112" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "data_13[].address"
+  source = { type = "table", direction = "vertical", column = "B", start_row = "111", end_row = "112" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "data_13[].tel"
+  source = { type = "table", direction = "vertical", column = "C", start_row = "111", end_row = "112" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "data_13[].start_date"
+  source = { type = "table", direction = "vertical", column = "D", start_row = "111", end_row = "112" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "data_13[].area"
+  format = { type = "replace", args = { src = " ", dist = "" } }
+  source = { type = "table", direction = "vertical", column = "E", start_row = "111", end_row = "112" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "data_14[].name"
+  source = { type = "table", direction = "vertical", column = "A", start_row = "116", end_row = "118" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "data_14[].address"
+  source = { type = "table", direction = "vertical", column = "B", start_row = "116", end_row = "118" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "data_14[].tel"
+  source = { type = "table", direction = "vertical", column = "C", start_row = "116", end_row = "118" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "data_14[].start_date"
+  source = { type = "table", direction = "vertical", column = "D", start_row = "116", end_row = "118" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "data_14[].area"
+  format = { type = "replace", args = { src = " ", dist = "" } }
+  source = { type = "table", direction = "vertical", column = "E", start_row = "116", end_row = "118" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "data_15[].name"
+  source = { type = "table", direction = "vertical", column = "A", start_row = "122", end_row = "122" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "data_15[].address"
+  source = { type = "table", direction = "vertical", column = "B", start_row = "122", end_row = "122" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "data_15[].tel"
+  source = { type = "table", direction = "vertical", column = "C", start_row = "122", end_row = "122" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "data_15[].start_date"
+  source = { type = "table", direction = "vertical", column = "D", start_row = "122", end_row = "122" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "data_15[].area"
+  format = { type = "replace", args = { src = " ", dist = "" } }
+  source = { type = "table", direction = "vertical", column = "E", start_row = "122", end_row = "122" }
+  [[12574.mappings]]
+  type = "number"
+  destination = "data_15[].capacity"
+  format = { type = "floor", args = { ndigits = 0 } }
+  source = { type = "table", direction = "vertical", column = "F", start_row = "122", end_row = "122" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "data_16[].name"
+  source = { type = "table", direction = "vertical", column = "A", start_row = "126", end_row = "127" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "data_16[].address"
+  source = { type = "table", direction = "vertical", column = "B", start_row = "126", end_row = "127" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "data_16[].tel"
+  source = { type = "table", direction = "vertical", column = "C", start_row = "126", end_row = "127" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "data_16[].start_date"
+  source = { type = "table", direction = "vertical", column = "D", start_row = "126", end_row = "127" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "data_16[].area"
+  format = { type = "replace", args = { src = " ", dist = "" } }
+  source = { type = "table", direction = "vertical", column = "E", start_row = "126", end_row = "127" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "data_16[].note"
+  source = { type = "table", direction = "vertical", column = "F", start_row = "126", end_row = "127" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "data_17[].name"
+  source = { type = "table", direction = "vertical", column = "A", start_row = "131", end_row = "131" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "data_17[].address"
+  source = { type = "table", direction = "vertical", column = "B", start_row = "131", end_row = "131" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "data_17[].tel"
+  source = { type = "table", direction = "vertical", column = "C", start_row = "131", end_row = "131" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "data_17[].start_date"
+  source = { type = "table", direction = "vertical", column = "D", start_row = "131", end_row = "131" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "data_17[].area"
+  format = { type = "replace", args = { src = " ", dist = "" } }
+  source = { type = "table", direction = "vertical", column = "E", start_row = "131", end_row = "131" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "data_17[].capacity"
+  source = { type = "table", direction = "vertical", column = "F", start_row = "131", end_row = "131" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "data_18[].name"
+  source = { type = "table", direction = "vertical", column = "A", start_row = "135", end_row = "136" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "data_18[].address"
+  source = { type = "table", direction = "vertical", column = "B", start_row = "135", end_row = "136" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "data_18[].tel"
+  source = { type = "table", direction = "vertical", column = "C", start_row = "135", end_row = "136" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "data_18[].start_date"
+  source = { type = "table", direction = "vertical", column = "D", start_row = "135", end_row = "136" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "data_18[].capacity"
+  source = { type = "table", direction = "vertical", column = "E", start_row = "135", end_row = "136" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "data_19[].name"
+  source = { type = "table", direction = "vertical", column = "A", start_row = "138", end_row = "150" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "data_19[].address"
+  source = { type = "table", direction = "vertical", column = "B", start_row = "138", end_row = "150" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "data_19[].tel"
+  source = { type = "table", direction = "vertical", column = "C", start_row = "138", end_row = "150" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "data_19[].start_date"
+  source = { type = "table", direction = "vertical", column = "D", start_row = "138", end_row = "150" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "data_19[].capacity"
+  source = { type = "table", direction = "vertical", column = "E", start_row = "138", end_row = "150" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "data_20[].name"
+  source = { type = "table", direction = "vertical", column = "A", start_row = "154", end_row = "161" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "data_20[].address"
+  source = { type = "table", direction = "vertical", column = "B", start_row = "154", end_row = "161" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "data_20[].tel"
+  source = { type = "table", direction = "vertical", column = "C", start_row = "154", end_row = "161" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "data_20[].start_date"
+  source = { type = "table", direction = "vertical", column = "D", start_row = "154", end_row = "161" }
+  [[12574.mappings]]
+  type = "number"
+  destination = "data_20[].capacity"
+  format = { type = "floor", args = { ndigits = 0 } }
+  source = { type = "table", direction = "vertical", column = "E", start_row = "154", end_row = "161" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "data_21[].name"
+  source = { type = "table", direction = "vertical", column = "A", start_row = "164", end_row = "164" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "data_21[].address"
+  source = { type = "table", direction = "vertical", column = "B", start_row = "164", end_row = "164" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "data_21[].tel"
+  source = { type = "table", direction = "vertical", column = "C", start_row = "164", end_row = "164" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "data_21[].start_date"
+  source = { type = "table", direction = "vertical", column = "D", start_row = "164", end_row = "164" }
+  [[12574.mappings]]
+  type = "number"
+  destination = "data_21[].capacity"
+  format = { type = "floor", args = { ndigits = 0 } }
+  source = { type = "table", direction = "vertical", column = "E", start_row = "164", end_row = "164" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "data_22[].name"
+  source = { type = "table", direction = "vertical", column = "A", start_row = "168", end_row = "168" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "data_22[].address"
+  source = { type = "table", direction = "vertical", column = "B", start_row = "168", end_row = "168" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "data_22[].tel"
+  source = { type = "table", direction = "vertical", column = "C", start_row = "168", end_row = "168" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "data_22[].start_date"
+  source = { type = "table", direction = "vertical", column = "D", start_row = "168", end_row = "168" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "data_22[].capacity"
+  source = { type = "table", direction = "vertical", column = "E", start_row = "168", end_row = "168" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "data_23[].name"
+  source = { type = "table", direction = "vertical", column = "A", start_row = "172", end_row = "179" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "data_23[].address"
+  source = { type = "table", direction = "vertical", column = "B", start_row = "172", end_row = "179" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "data_23[].tel"
+  source = { type = "table", direction = "vertical", column = "C", start_row = "172", end_row = "179" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "data_23[].fax"
+  source = { type = "table", direction = "vertical", column = "D", start_row = "172", end_row = "179" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "data_23[].start_date"
+  source = { type = "table", direction = "vertical", column = "E", start_row = "172", end_row = "179" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "data_24[].name"
+  source = { type = "table", direction = "vertical", column = "A", start_row = "183", end_row = "187" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "data_24[].address"
+  source = { type = "table", direction = "vertical", column = "B", start_row = "183", end_row = "187" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "data_24[].tel"
+  source = { type = "table", direction = "vertical", column = "C", start_row = "183", end_row = "187" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "data_24[].fax"
+  source = { type = "table", direction = "vertical", column = "D", start_row = "183", end_row = "187" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "data_24[].start_date"
+  source = { type = "table", direction = "vertical", column = "E", start_row = "183", end_row = "187" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "data_25[].name"
+    [12574.mappings.source]
+    type = "merge"
+      [[12574.mappings.source.refs]]
+      type = "table"
+      direction = "vertical"
+      column = "A"
+      start_row = "191"
+      end_row = "191"
+      [[12574.mappings.source.refs]]
+      type = "join"
+      refs = [{ type = "table", direction = "vertical", column = "A", start_row = "192", end_row = "197", skip = 2 }, { type = "table", direction = "vertical", column = "A", start_row = "193", end_row = "197", skip = 2 }]
+  [[12574.mappings]]
+  type = "string"
+  destination = "data_25[].address"
+  source = { type = "table", direction = "vertical", column = "B", start_row = "191", end_row = "197", skip_if_empty = true }
+  [[12574.mappings]]
+  type = "string"
+  destination = "data_25[].tel"
+  source = { type = "table", direction = "vertical", column = "C", start_row = "191", end_row = "197", skip_if_empty = true }
+  [[12574.mappings]]
+  type = "string"
+  destination = "data_25[].fax"
+  source = { type = "table", direction = "vertical", column = "D", start_row = "191", end_row = "197", skip_if_empty = true }
+  [[12574.mappings]]
+  type = "string"
+  destination = "data_25[].start_date"
+  source = { type = "table", direction = "vertical", column = "E", start_row = "191", end_row = "197", skip_if_empty = true }
+  [[12574.mappings]]
+  type = "string"
+  destination = "data_26[].name"
+  source = { type = "table", direction = "vertical", column = "A", start_row = "200", end_row = "202" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "data_26[].address"
+  source = { type = "table", direction = "vertical", column = "B", start_row = "200", end_row = "202" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "data_26[].tel"
+  source = { type = "table", direction = "vertical", column = "C", start_row = "200", end_row = "202" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "data_26[].start_date"
+  source = { type = "table", direction = "vertical", column = "D", start_row = "200", end_row = "202" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "data_26[].area"
+  format = { type = "replace", args = { src = " ", dist = "" } }
+  source = { type = "table", direction = "vertical", column = "E", start_row = "200", end_row = "202" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "data_27[].name"
+  source = { type = "table", direction = "vertical", column = "A", start_row = "206", end_row = "208" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "data_27[].address"
+  source = { type = "table", direction = "vertical", column = "B", start_row = "206", end_row = "208" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "data_27[].tel"
+  source = { type = "table", direction = "vertical", column = "C", start_row = "206", end_row = "208" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "data_27[].start_date"
+  source = { type = "table", direction = "vertical", column = "D", start_row = "206", end_row = "208" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "data_27[].area"
+  format = { type = "replace", args = { src = " ", dist = "" } }
+  source = { type = "table", direction = "vertical", column = "E", start_row = "206", end_row = "208" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "data_28[].name"
+  source = { type = "table", direction = "vertical", column = "A", start_row = "212", end_row = "213" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "data_28[].address"
+  source = { type = "table", direction = "vertical", column = "B", start_row = "212", end_row = "213" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "data_28[].tel"
+  source = { type = "table", direction = "vertical", column = "C", start_row = "212", end_row = "213" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "data_28[].start_date"
+  source = { type = "table", direction = "vertical", column = "D", start_row = "212", end_row = "213" }
+  [[12574.mappings]]
+  type = "string"
+  destination = "data_28[].area"
+  format = { type = "replace", args = { src = " ", dist = "" } }
+  source = { type = "table", direction = "vertical", column = "E", start_row = "212", end_row = "213" }

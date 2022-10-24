@@ -1,0 +1,206 @@
+{
+  "origin": "https://www.city-yuzawa.jp/uploaded/attachment/12566.xlsx",
+  "source": "Data by 湯沢市 - ライフイベントに関する相談窓口 / クリエイティブ・コモンズ 表示 4.1日本",
+  "header": {
+    "marriage": "結婚",
+    "pregnancy": "妊娠・出産",
+    "childcare": "育児",
+    "consultation": "相談内容",
+    "name": "名称",
+    "time": "日時",
+    "location": "場所/担当課",
+    "tel": "電話番号"
+  },
+  "data": [
+    {
+      "marriage": true,
+      "pregnancy": false,
+      "childcare": false,
+      "consultation": "結婚に関する相談",
+      "name": "あきた結婚支援センター南センター",
+      "time": "月～金13:00～21:00\n土・日9:00～18:00",
+      "location": "横手市四日町6-8（横手市役所本庁舎前向）",
+      "tel": "相談専用ダイヤル\n0800-800-0413"
+    },
+    {
+      "marriage": false,
+      "pregnancy": true,
+      "childcare": false,
+      "consultation": "不妊・不育に関する相談",
+      "name": "秋田県不妊とこころの相談センター",
+      "time": "毎週水・金\n12:00～14:00",
+      "location": "秋田大学医学部附属病院 １階\n産科婦人科外来内",
+      "tel": "018-884-6234"
+    },
+    {
+      "marriage": false,
+      "pregnancy": true,
+      "childcare": false,
+      "consultation": "不妊治療助成について",
+      "name": "雄勝地域振興局福祉環境部（湯沢保健所）",
+      "time": "月～金\n8:30～17:15",
+      "location": "雄勝地域振興局",
+      "tel": "73-6155"
+    },
+    {
+      "marriage": false,
+      "pregnancy": true,
+      "childcare": true,
+      "consultation": "妊娠・出産・乳幼児期からの子どもの成長に関わる相談",
+      "name": "保健師・栄養士",
+      "time": "月～金\n8:30～17:15",
+      "location": "湯沢市福祉保健部健康対策課",
+      "tel": "73-2124"
+    },
+    {
+      "marriage": false,
+      "pregnancy": true,
+      "childcare": true,
+      "consultation": "助産師による出産前後の子ども、母親についての相談",
+      "name": "母と子のほっとステーション",
+      "time": "毎週火・金\n13:00～16:00（要予約）",
+      "location": "湯沢市柳町2-1-39（食品館隣り）\n湯沢市男女共同参画センター（2階）",
+      "tel": "080-3336-0468"
+    },
+    {
+      "marriage": false,
+      "pregnancy": false,
+      "childcare": true,
+      "consultation": "子育てに関する悩みなどの相談",
+      "name": "湯沢市ファミリーサポートセンター",
+      "time": "月～土\n9:30～18:00",
+      "location": "湯沢市柳町2-1-39（食品館隣り）",
+      "tel": "73-3321"
+    },
+    {
+      "marriage": false,
+      "pregnancy": false,
+      "childcare": true,
+      "consultation": "言葉や学びに心配のある子どもの相談・指導",
+      "name": "通級指導教室（ことばの教室・学びの教室）",
+      "time": "月～金\n随時",
+      "location": "湯沢西小学校内",
+      "tel": "72-5150"
+    },
+    {
+      "marriage": false,
+      "pregnancy": false,
+      "childcare": true,
+      "consultation": "学習面や生活面で気になる子どもに関する相談",
+      "name": "教育委員会学校教育課",
+      "time": "月～金\n8:30～17:15",
+      "location": "湯沢市教育委員会事務局教育部学校教育課指導班",
+      "tel": "73-2162"
+    },
+    {
+      "marriage": false,
+      "pregnancy": false,
+      "childcare": true,
+      "consultation": "心身に発達の遅れがみられる子どもの相談・療育訓練",
+      "name": "たんぽぽルーム",
+      "time": "随時",
+      "location": "やまばと園内",
+      "tel": "42-2141"
+    },
+    {
+      "marriage": false,
+      "pregnancy": false,
+      "childcare": true,
+      "consultation": "家庭内や子どもの問題に関する相談や支援",
+      "name": "家庭相談員",
+      "time": "月～金\n8:30～17:15",
+      "location": "湯沢市福祉保健部子育て支援課児童家庭班",
+      "tel": "78-0166"
+    },
+    {
+      "marriage": false,
+      "pregnancy": false,
+      "childcare": true,
+      "consultation": "子どもの発達や養育に不安や心配のある方の幼児教室",
+      "name": "幼児教室",
+      "time": "毎月１～２回",
+      "location": "湯沢市福祉保健部子育て支援課児童家庭班",
+      "tel": "78-0166"
+    },
+    {
+      "marriage": false,
+      "pregnancy": false,
+      "childcare": true,
+      "consultation": "心身に障害を持つ子どもと母親の学習会",
+      "name": "湯沢市雄勝郡すぎの子会",
+      "time": "毎月１回",
+      "location": "湯沢市福祉保健部子育て支援課児童家庭班",
+      "tel": "78-0166"
+    },
+    {
+      "marriage": false,
+      "pregnancy": false,
+      "childcare": true,
+      "consultation": "子どもの抱える様々な問題についてのカウンセリングや相談・支援",
+      "name": "南児童相談所",
+      "time": "月～金\n8:30～17:15",
+      "location": "横手保健所内",
+      "tel": "0182-32-0500"
+    },
+    {
+      "marriage": false,
+      "pregnancy": false,
+      "childcare": true,
+      "consultation": "乳幼児の子育てに関する相談",
+      "name": "湯沢市子育て支援総合センター",
+      "time": "月～金\n8:30～17:15",
+      "location": "湯沢市柳町2-1-39（食品館隣り）",
+      "tel": "72-3501"
+    },
+    {
+      "marriage": false,
+      "pregnancy": false,
+      "childcare": true,
+      "consultation": "乳幼児の子育てに関する相談",
+      "name": "稲川子育て支援センター",
+      "time": "月～金\n9:00～16:00",
+      "location": "あおぞら保育園内",
+      "tel": "42-5222"
+    },
+    {
+      "marriage": false,
+      "pregnancy": false,
+      "childcare": true,
+      "consultation": "乳幼児の子育てに関する相談",
+      "name": "おがち子育て支援センター",
+      "time": "月～金\n9:00～16:00",
+      "location": "おがち保育園内",
+      "tel": "52-5610"
+    },
+    {
+      "marriage": false,
+      "pregnancy": false,
+      "childcare": true,
+      "consultation": "乳幼児の子育てに関する相談",
+      "name": "皆瀬子育て支援センター",
+      "time": "月～金\n9:00～16:00",
+      "location": "皆瀬保育園内",
+      "tel": "46-2446"
+    },
+    {
+      "marriage": false,
+      "pregnancy": false,
+      "childcare": true,
+      "consultation": "育児・家庭・母子・DVについての相談　",
+      "name": "はあとぴあ相談",
+      "time": "毎週水\n14:00～16:00（要予約）",
+      "location": "湯沢市役所内相談室",
+      "tel": "55-8274\n（湯沢市企画課）"
+    },
+    {
+      "marriage": false,
+      "pregnancy": false,
+      "childcare": true,
+      "consultation": "配偶者等による人権侵害の相談",
+      "name": "秋田南福祉事務所",
+      "time": "月～金\n8:30～17:15",
+      "location": "横手市旭川一丁目3-46",
+      "tel": "0182-32-3294 "
+    }
+  ]
+}

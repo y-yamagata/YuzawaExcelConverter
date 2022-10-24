@@ -1,0 +1,141 @@
+{
+  "origin": "https://www.city-yuzawa.jp/uploaded/attachment/12571.xlsx",
+  "source": "Data by 湯沢市 - 放課後児童クラブ、児童館 / クリエイティブ・コモンズ 表示 4.1日本",
+  "header": {
+    "distinct": "学区",
+    "name": "名称",
+    "address": "住所",
+    "location": "",
+    "tel": "電話番号",
+    "weekday_opening_time": "開設時間（平日）",
+    "holiday_opening_time": "開設時間\n（土曜、長期休暇）"
+  },
+  "data": [
+    {
+      "distinct": "湯沢東",
+      "name": "祝田児童クラブ",
+      "address": "湯沢市字祝田154番地1",
+      "location": "祝田放課後児童健全育成施設",
+      "tel": "72-1811",
+      "weekday_opening_time": "13:00～18:30",
+      "holiday_opening_time": "8:00～18:30"
+    },
+    {
+      "distinct": "湯沢東",
+      "name": "岩崎児童クラブ",
+      "address": "湯沢市岩崎字寝連沢1番地10",
+      "location": "旧岩崎小学校内",
+      "tel": "73-3490",
+      "weekday_opening_time": "13:00～18:30",
+      "holiday_opening_time": "8:00～18:30"
+    },
+    {
+      "distinct": "湯沢東",
+      "name": "倉内団地児童クラブさくらっ子",
+      "address": "湯沢市倉内字三ツ田1番地11",
+      "location": "倉内住宅集会所内",
+      "tel": "080-1677-3651（小松田）",
+      "weekday_opening_time": "14:00～18:30",
+      "holiday_opening_time": "8:00～18:30"
+    },
+    {
+      "distinct": "湯沢西",
+      "name": "湯沢南児童クラブ",
+      "address": "湯沢市千石町二丁目4番8",
+      "location": "湯沢ｺﾐｭﾆﾃｨｰｾﾝﾀｰ隣",
+      "tel": "72-8456",
+      "weekday_opening_time": "13:00～18:30",
+      "holiday_opening_time": "8:00～18:30"
+    },
+    {
+      "distinct": "湯沢西",
+      "name": "若草幼稚園学童部",
+      "address": "湯沢市清水町二丁目3番3号",
+      "location": "若草幼稚園内",
+      "tel": "73-6738",
+      "weekday_opening_time": "13:30～18:30",
+      "holiday_opening_time": "7:30～18:30"
+    },
+    {
+      "distinct": "湯沢東・西",
+      "name": "ふたば学童クラブ",
+      "address": "湯沢市表町四丁目７番８号",
+      "location": "双葉幼稚園内",
+      "tel": "73-0110",
+      "weekday_opening_time": "13:00～19:00",
+      "holiday_opening_time": "8:00～18:30"
+    },
+    {
+      "distinct": "雄勝（小野）",
+      "name": "小野児童館",
+      "address": "湯沢市小野字油屋敷15番地",
+      "location": "旧小野小学校内",
+      "tel": "52-2590",
+      "weekday_opening_time": "9:00～18:30",
+      "holiday_opening_time": "8:00～18:30"
+    },
+    {
+      "distinct": "雄勝（院内）",
+      "name": "院内児童館",
+      "address": "湯沢市院内字田用橋61番地",
+      "location": "院内児童館",
+      "tel": "52-2498",
+      "weekday_opening_time": "9:00～18:30",
+      "holiday_opening_time": "8:00～18:30"
+    },
+    {
+      "distinct": "雄勝（秋ノ宮）",
+      "name": "秋ノ宮児童館",
+      "address": "湯沢市秋ノ宮字山岸146番地",
+      "location": "秋ノ宮児童館",
+      "tel": "55-2862",
+      "weekday_opening_time": "9:00～18:30",
+      "holiday_opening_time": "8:00～18:30"
+    },
+    {
+      "distinct": "雄勝（横堀）",
+      "name": "ワンパクハウス",
+      "address": "湯沢市横堀字小田中5番地2",
+      "location": "旧横堀小学校内",
+      "tel": "090-5232-9001",
+      "weekday_opening_time": "14:00～18:30",
+      "holiday_opening_time": "8:00～18:30"
+    },
+    {
+      "distinct": "山田",
+      "name": "深堀ぐんぐんキッズ",
+      "address": "湯沢市深堀字高屋敷58番地3",
+      "location": "深堀保育園内",
+      "tel": "72-2512",
+      "weekday_opening_time": "13:00～19:00",
+      "holiday_opening_time": "7:00～19:00"
+    },
+    {
+      "distinct": "川連・駒形",
+      "name": "いなかわっこ大舘教室",
+      "address": "湯沢市川連字上平城2番地6",
+      "location": "旧稲川福祉ｻﾎﾟｰﾄｾﾝﾀｰ",
+      "tel": "090-7068-4845（簗瀬）",
+      "weekday_opening_time": "14:00～18:30",
+      "holiday_opening_time": "7:30～18:30"
+    },
+    {
+      "distinct": "稲庭・三梨",
+      "name": "いなかわっこ宮田教室",
+      "address": "湯沢市三梨字宮田屋布前17番地",
+      "location": "稲川克雪ｾﾝﾀｰ内",
+      "tel": "080-2841-5144",
+      "weekday_opening_time": "14:00～18:30",
+      "holiday_opening_time": "7:30～18:30"
+    },
+    {
+      "distinct": "皆瀬",
+      "name": "皆瀬児童クラブ",
+      "address": "湯沢市皆瀬字下菅生32番地",
+      "location": "特別養護老人ホームふれあいの里内",
+      "tel": "58-4155",
+      "weekday_opening_time": "13:30～18:30",
+      "holiday_opening_time": "8:00～18:30"
+    }
+  ]
+}

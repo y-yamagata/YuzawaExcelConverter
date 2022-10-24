@@ -1,0 +1,27 @@
+[test]
+uri = "./test/test.xlsx"
+output_filename = "test_output"
+format_type = "json"
+sheet = "テスト"
+  [[test.mappings]]
+  type = "string"
+  destination = "users[].name"
+  source = { type = "table", direction = "vertical", column = "A", start_row = "2", end_if_empty = true }
+  [[test.mappings]]
+  type = "number"
+  destination = "users[].age"
+  format = { type = "floor", args = { ndigits = 0 } }
+  source = { type = "table", direction = "vertical", column = "B", start_row = "2", end_if_empty = true }
+  [[test.mappings]]
+  type = "string"
+  destination = "users[].country"
+  source = { type = "table", direction = "vertical", column = "C", start_row = "2", end_if_empty = true }
+  [[test.mappings]]
+  type = "boolean"
+  destination = "users[].registered"
+  source = { type = "table", direction = "vertical", column = "D", start_row = "2", end_if_empty = true }
+  [[test.mappings]]
+  type = "boolean"
+  destination = "users[].living_in_america"
+  format = { type = "includes", args = { substr = "アメリカ" } }
+  source = { type = "table", direction = "vertical", column = "C", start_row = "2", end_if_empty = true }

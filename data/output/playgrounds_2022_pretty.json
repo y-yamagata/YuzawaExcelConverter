@@ -1,0 +1,496 @@
+{
+  "origin": "https://www.city-yuzawa.jp/uploaded/attachment/12563.xlsx",
+  "source": "Data by 湯沢市 - 子どもの遊び場一覧 / クリエイティブ・コモンズ 表示 4.1日本",
+  "header": {
+    "name": "名称",
+    "address": "所在地",
+    "equipments": "遊具",
+    "toilet": "トイレ",
+    "drinking_fountain": "水飲み場",
+    "note": "備考",
+    "other": "その他",
+    "contact": "問合せ先"
+  },
+  "data": [
+    {
+      "name": "西田町街区公園",
+      "address": "秋田県湯沢市田町二丁目",
+      "equipments": "4連ブランコ・シーソー・1連鉄棒・2連鉄棒・たいこ梯子・複合遊具",
+      "toilet": "無",
+      "drinking_fountain": "有",
+      "note": "",
+      "other": "",
+      "contact": "湯沢市都市計画課（0183-73-2156）"
+    },
+    {
+      "name": "佐竹町街区公園",
+      "address": "秋田県湯沢市佐竹町",
+      "equipments": "4連ブランコ・ブランコ柵・複合遊具",
+      "toilet": "無",
+      "drinking_fountain": "有",
+      "note": "湯沢市役所隣接",
+      "other": "駐車場有",
+      "contact": "湯沢市都市計画課（0183-73-2156）"
+    },
+    {
+      "name": "西松沢街区公園",
+      "address": "秋田県湯沢市千石町三丁目",
+      "equipments": "2連ブランコ・ブランコ柵・滑り台",
+      "toilet": "無",
+      "drinking_fountain": "有",
+      "note": "",
+      "other": "",
+      "contact": "湯沢市都市計画課（0183-73-2156）"
+    },
+    {
+      "name": "平清水街区公園",
+      "address": "秋田県湯沢市表町四丁目",
+      "equipments": "4連ブランコ・ブランコ柵・シーソー・ジャングルジム",
+      "toilet": "水洗・和式",
+      "drinking_fountain": "有",
+      "note": "",
+      "other": "",
+      "contact": "湯沢市都市計画課（0183-73-2156）"
+    },
+    {
+      "name": "古館街区公園",
+      "address": "秋田県湯沢市古舘町",
+      "equipments": "1連ブランコ・4連ブランコ・ブランコ柵",
+      "toilet": "無",
+      "drinking_fountain": "有",
+      "note": "",
+      "other": "",
+      "contact": "湯沢市都市計画課（0183-73-2156）"
+    },
+    {
+      "name": "石名塚街区公園",
+      "address": "秋田県湯沢市千石町二丁目",
+      "equipments": "4連ブランコ・ブランコ柵・スイングシーソー2基",
+      "toilet": "水洗・和式",
+      "drinking_fountain": "有",
+      "note": "",
+      "other": "",
+      "contact": "湯沢市都市計画課（0183-73-2156）"
+    },
+    {
+      "name": "関口街区公園",
+      "address": "秋田県湯沢市関口字関口",
+      "equipments": "4連ブランコ・ブランコ柵・シーソー・たいこ梯子",
+      "toilet": "無",
+      "drinking_fountain": "無",
+      "note": "",
+      "other": "",
+      "contact": "湯沢市都市計画課（0183-73-2156）"
+    },
+    {
+      "name": "清水町街区公園",
+      "address": "秋田県湯沢市清水町四丁目",
+      "equipments": "4連ブランコ・ブランコ柵・シーソー・3連鉄棒",
+      "toilet": "和式",
+      "drinking_fountain": "有",
+      "note": "",
+      "other": "",
+      "contact": "湯沢市都市計画課（0183-73-2156）"
+    },
+    {
+      "name": "中川原南街区公園",
+      "address": "秋田県湯沢市清水町五丁目",
+      "equipments": "4連ブランコ・シーソー",
+      "toilet": "水洗・和式",
+      "drinking_fountain": "有",
+      "note": "",
+      "other": "",
+      "contact": "湯沢市都市計画課（0183-73-2156）"
+    },
+    {
+      "name": "岩崎街区公園",
+      "address": "秋田県湯沢市岩崎字岩崎",
+      "equipments": "4連ブランコ・3連鉄棒",
+      "toilet": "和式",
+      "drinking_fountain": "有",
+      "note": "",
+      "other": "",
+      "contact": "湯沢市都市計画課（0183-73-2156）"
+    },
+    {
+      "name": "新所街区公園",
+      "address": "秋田県湯沢市杉沢新所字八幡山",
+      "equipments": "無",
+      "toilet": "和式",
+      "drinking_fountain": "有",
+      "note": "",
+      "other": "",
+      "contact": "湯沢市都市計画課（0183-73-2156）"
+    },
+    {
+      "name": "西新町街区公園",
+      "address": "秋田県湯沢市清水町一丁目",
+      "equipments": "4連ブランコ・シーソー・3連鉄棒",
+      "toilet": "水洗・和式",
+      "drinking_fountain": "有",
+      "note": "",
+      "other": "",
+      "contact": "湯沢市都市計画課（0183-73-2156）"
+    },
+    {
+      "name": "成沢街区公園",
+      "address": "秋田県湯沢市成沢字堤端",
+      "equipments": "4連ブランコ・シーソー・3連鉄棒・うんてい",
+      "toilet": "和式",
+      "drinking_fountain": "有",
+      "note": "",
+      "other": "",
+      "contact": "湯沢市都市計画課（0183-73-2156）"
+    },
+    {
+      "name": "杉沢街区公園",
+      "address": "秋田県湯沢市杉沢字野々沢",
+      "equipments": "4連ブランコ2基・シーソー・3連鉄棒",
+      "toilet": "和式",
+      "drinking_fountain": "有",
+      "note": "",
+      "other": "",
+      "contact": "湯沢市都市計画課（0183-73-2156）"
+    },
+    {
+      "name": "松沢街区公園",
+      "address": "秋田県湯沢市西愛宕町",
+      "equipments": "4連ブランコ2基・シーソー・3連鉄棒",
+      "toilet": "和式",
+      "drinking_fountain": "有",
+      "note": "",
+      "other": "",
+      "contact": "湯沢市都市計画課（0183-73-2156）"
+    },
+    {
+      "name": "寺沢街区公園",
+      "address": "秋田県湯沢市若葉町",
+      "equipments": "4連ブランコ・シーソー・2連鉄棒",
+      "toilet": "和式",
+      "drinking_fountain": "有",
+      "note": "",
+      "other": "",
+      "contact": "湯沢市都市計画課（0183-73-2156）"
+    },
+    {
+      "name": "元清水東街区公園",
+      "address": "秋田県湯沢市元清水一丁目",
+      "equipments": "4連ブランコ・ブランコ柵・滑り台・3連鉄棒",
+      "toilet": "無",
+      "drinking_fountain": "有",
+      "note": "",
+      "other": "",
+      "contact": "湯沢市都市計画課（0183-73-2156）"
+    },
+    {
+      "name": "元清水西街区公園",
+      "address": "秋田県湯沢市元清水二丁目",
+      "equipments": "無",
+      "toilet": "無",
+      "drinking_fountain": "無",
+      "note": "",
+      "other": "",
+      "contact": "湯沢市都市計画課（0183-73-2156）"
+    },
+    {
+      "name": "千年公園",
+      "address": "秋田県湯沢市岩崎字千年",
+      "equipments": "無",
+      "toilet": "水洗・和式",
+      "drinking_fountain": "有",
+      "note": "",
+      "other": "駐車場有",
+      "contact": "湯沢市都市計画課（0183-73-2156）"
+    },
+    {
+      "name": "愛宕公園",
+      "address": "秋田県湯沢市字愛宕山・字東松沢",
+      "equipments": "小象滑り台・滑り台・3連鉄棒",
+      "toilet": "水洗・和式",
+      "drinking_fountain": "有",
+      "note": "",
+      "other": "駐車場有・多目的トイレ有",
+      "contact": "湯沢市都市計画課（0183-73-2156）"
+    },
+    {
+      "name": "前森公園",
+      "address": "秋田県湯沢市字東赤土山・中ノ沢弁慶山",
+      "equipments": "複合遊具・徒歩池（じゃぶじゃぶ池）",
+      "toilet": "水洗・和洋式",
+      "drinking_fountain": "有",
+      "note": "",
+      "other": "駐車場有・多目的トイレ有・自動販売機有",
+      "contact": "湯沢市都市計画課（0183-73-2156）"
+    },
+    {
+      "name": "中央公園",
+      "address": "秋田県湯沢市字古舘山・字内館山",
+      "equipments": "散策路",
+      "toilet": "水洗・和式",
+      "drinking_fountain": "有",
+      "note": "",
+      "other": "駐車場有・多目的トイレ有",
+      "contact": "湯沢市都市計画課（0183-73-2156）"
+    },
+    {
+      "name": "観音森公園",
+      "address": "秋田県湯沢市杉沢字野々沢山",
+      "equipments": "無",
+      "toilet": "無",
+      "drinking_fountain": "無",
+      "note": "",
+      "other": "",
+      "contact": "湯沢市都市計画課（0183-73-2156）"
+    },
+    {
+      "name": "中川原北街区公園",
+      "address": "秋田県湯沢市清水町六丁目",
+      "equipments": "2連ブランコ・滑り台・2連鉄棒・健康器具",
+      "toilet": "和式",
+      "drinking_fountain": "有",
+      "note": "",
+      "other": "",
+      "contact": "湯沢市都市計画課（0183-73-2156）"
+    },
+    {
+      "name": "相川公園",
+      "address": "秋田県湯沢市相川字麓",
+      "equipments": "4連ブランコ",
+      "toilet": "無",
+      "drinking_fountain": "無",
+      "note": "",
+      "other": "",
+      "contact": "湯沢市都市計画課（0183-73-2156）"
+    },
+    {
+      "name": "角間公園",
+      "address": "秋田県湯沢市角間字白山下",
+      "equipments": "2連ブランコ・滑り台付ジャングルジム・シーソー",
+      "toilet": "無",
+      "drinking_fountain": "無",
+      "note": "",
+      "other": "",
+      "contact": "湯沢市都市計画課（0183-73-2156）"
+    },
+    {
+      "name": "森の子広場",
+      "address": "秋田県湯沢市森字嶽ノ下",
+      "equipments": "2連ブランコ",
+      "toilet": "和式",
+      "drinking_fountain": "有",
+      "note": "",
+      "other": "",
+      "contact": "湯沢市都市計画課（0183-73-2156）"
+    },
+    {
+      "name": "緑風公園",
+      "address": "秋田県湯沢市岩崎字壇ノ上",
+      "equipments": "無",
+      "toilet": "無",
+      "drinking_fountain": "無",
+      "note": "",
+      "other": "",
+      "contact": "湯沢市都市計画課（0183-73-2156）"
+    },
+    {
+      "name": "清水公園",
+      "address": "秋田県湯沢市岩崎字壇ノ上",
+      "equipments": "無",
+      "toilet": "無",
+      "drinking_fountain": "無",
+      "note": "",
+      "other": "",
+      "contact": "湯沢市都市計画課（0183-73-2156）"
+    },
+    {
+      "name": "若葉公園",
+      "address": "秋田県湯沢市岩崎字壇ノ上",
+      "equipments": "無",
+      "toilet": "無",
+      "drinking_fountain": "無",
+      "note": "",
+      "other": "",
+      "contact": "湯沢市都市計画課（0183-73-2156）"
+    },
+    {
+      "name": "掵上公園",
+      "address": "秋田県湯沢市二井田字掵上",
+      "equipments": "無",
+      "toilet": "水洗・和式",
+      "drinking_fountain": "有",
+      "note": "",
+      "other": "",
+      "contact": "湯沢市都市計画課（0183-73-2156）"
+    },
+    {
+      "name": "弁天公園",
+      "address": "秋田県湯沢市森字熊ノ堂上羽場",
+      "equipments": "4連ブランコ",
+      "toilet": "無",
+      "drinking_fountain": "無",
+      "note": "弁天地区センター隣接",
+      "other": "",
+      "contact": "湯沢市都市計画課（0183-73-2156）"
+    },
+    {
+      "name": "岡田町街区公園",
+      "address": "秋田県湯沢市岡田町",
+      "equipments": "2連ブランコ・シーソー・2連鉄棒2基・水平うんてい",
+      "toilet": "無",
+      "drinking_fountain": "有",
+      "note": "",
+      "other": "",
+      "contact": "湯沢市都市計画課（0183-73-2156）"
+    },
+    {
+      "name": "勇ヶ岡記念公園",
+      "address": "秋田県湯沢市山田字蓮台寺",
+      "equipments": "無",
+      "toilet": "無",
+      "drinking_fountain": "無",
+      "note": "",
+      "other": "",
+      "contact": "湯沢市都市計画課（0183-73-2156）"
+    },
+    {
+      "name": "戸石崎ﾆｭｰﾀｳﾝ緑地公園",
+      "address": "秋田県湯沢市杉沢字戸石崎",
+      "equipments": "2連ブランコ2基",
+      "toilet": "無",
+      "drinking_fountain": "無",
+      "note": "",
+      "other": "",
+      "contact": "湯沢市都市計画課（0183-73-2156）"
+    },
+    {
+      "name": "倉内河川公園",
+      "address": "秋田県湯沢市倉内字三ツ田・深堀字ハチカミ",
+      "equipments": "無",
+      "toilet": "無",
+      "drinking_fountain": "無",
+      "note": "",
+      "other": "",
+      "contact": "湯沢市都市計画課（0183-73-2156）"
+    },
+    {
+      "name": "光陽台「ちびっこ広場」",
+      "address": "秋田県湯沢市杉沢字森道下",
+      "equipments": "2連ブランコ",
+      "toilet": "無",
+      "drinking_fountain": "無",
+      "note": "",
+      "other": "",
+      "contact": "湯沢市都市計画課（0183-73-2156）"
+    },
+    {
+      "name": "小中島公園",
+      "address": "秋田県湯沢市角間字小中島",
+      "equipments": "1連ブランコ・ジャングルジム",
+      "toilet": "無",
+      "drinking_fountain": "無",
+      "note": "",
+      "other": "",
+      "contact": "湯沢市都市計画課（0183-73-2156）"
+    },
+    {
+      "name": "東鳥海の里公園",
+      "address": "秋田県湯沢市相川字十文字・外の目",
+      "equipments": "無",
+      "toilet": "無",
+      "drinking_fountain": "無",
+      "note": "",
+      "other": "",
+      "contact": "湯沢市都市計画課（0183-73-2156）"
+    },
+    {
+      "name": "コスモスパーク",
+      "address": "秋田県湯沢市高松字久根合",
+      "equipments": "無",
+      "toilet": "無",
+      "drinking_fountain": "無",
+      "note": "",
+      "other": "",
+      "contact": "湯沢市都市計画課（0183-73-2156）"
+    },
+    {
+      "name": "成沢堤公園",
+      "address": "秋田県湯沢市成沢字堤端",
+      "equipments": "無",
+      "toilet": "無",
+      "drinking_fountain": "無",
+      "note": "",
+      "other": "",
+      "contact": "湯沢市都市計画課（0183-73-2156）"
+    },
+    {
+      "name": "大台沼自然公園",
+      "address": "秋田県湯沢市杉沢字大台",
+      "equipments": "無",
+      "toilet": "和式",
+      "drinking_fountain": "無",
+      "note": "仮設トイレ有・大台沼隣接",
+      "other": "",
+      "contact": "湯沢市都市計画課（0183-73-2156）"
+    },
+    {
+      "name": "勇ヶ岡健康広場",
+      "address": "秋田県湯沢市山田字勇ヶ岡",
+      "equipments": "無",
+      "toilet": "無",
+      "drinking_fountain": "有",
+      "note": "",
+      "other": "",
+      "contact": "湯沢市都市計画課（0183-73-2156）"
+    },
+    {
+      "name": "山田住宅児童遊園",
+      "address": "秋田県湯沢市山田字福島尻",
+      "equipments": "4連ブランコ・3連鉄棒",
+      "toilet": "無",
+      "drinking_fountain": "無",
+      "note": "市営山田団地隣接",
+      "other": "",
+      "contact": "湯沢市都市計画課（0183-73-2156）"
+    },
+    {
+      "name": "倉内住宅児童遊園",
+      "address": "秋田県湯沢市倉内字三ツ田",
+      "equipments": "2連ブランコ・安全柵・滑り台・3連鉄棒",
+      "toilet": "無",
+      "drinking_fountain": "無",
+      "note": "市営倉内住宅隣接",
+      "other": "",
+      "contact": "湯沢市都市計画課（0183-73-2156）"
+    },
+    {
+      "name": "杉沢緑地",
+      "address": "秋田県湯沢市杉沢字森道上",
+      "equipments": "ラダー・らくだんシーソー",
+      "toilet": "無",
+      "drinking_fountain": "無",
+      "note": "",
+      "other": "",
+      "contact": "湯沢市都市計画課（0183-73-2156）"
+    },
+    {
+      "name": "湯沢市ヘルシーパーク",
+      "address": "秋田県湯沢市字沖鶴110",
+      "equipments": "コンビネーション遊具・スプリングシーソー・ステップベース・スプリング遊具",
+      "toilet": "水洗・和式",
+      "drinking_fountain": "有",
+      "note": "総合体育館隣接",
+      "other": "駐車場有・多目的トイレ有",
+      "contact": "湯沢市生涯学習課（0183-55-8286）"
+    },
+    {
+      "name": "湯沢市小町の郷公園",
+      "address": "秋田県湯沢市小野字二ツ森、東古戸、小町地内",
+      "equipments": "複合遊具・ブランコ・ロープウェイ",
+      "toilet": "水洗・和洋式",
+      "drinking_fountain": "有",
+      "note": "道の駅おがち隣接",
+      "other": "駐車場有・おむつ替えスペース有",
+      "contact": "指定管理者：道の駅おがち「小町の郷」（0183-52-5500）"
+    }
+  ]
+}

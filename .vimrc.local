@@ -1,0 +1,2 @@
+autocmd FileType ruby setlocal sw=2
+autocmd FileType toml setlocal sw=2
