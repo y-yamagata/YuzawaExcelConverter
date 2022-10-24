@@ -173,7 +173,7 @@ module YEConv
               column += @skip
               next
             end
-            value = value
+            value = cell.value
             if @copy_prev_if_empty && self.class.empty?(value)
               value = prev_value
             end
