@@ -1341,24 +1341,24 @@ sheet = 0
   [[18212.mappings]]
   type = "string"
   destination = "data[].category"
-  source = { type = "table", direction = "vertical", column = "A", start_row = "2" }
+  source = { type = "table", direction = "vertical", column = "A", start_row = "2", end_row = "47" }
   [[18212.mappings]]
   type = "string"
   destination = "data[].name"
-  source = { type = "table", direction = "vertical", column = "B", start_row = "2" }
+  source = { type = "table", direction = "vertical", column = "B", start_row = "2", end_row = "47" }
   [[18212.mappings]]
   type = "string"
   destination = "data[].zipcode"
-  source = { type = "table", direction = "vertical", column = "C", start_row = "2" }
+  source = { type = "table", direction = "vertical", column = "C", start_row = "2", end_row = "47" }
   [[18212.mappings]]
   type = "string"
   destination = "data[].address"
-  source = { type = "table", direction = "vertical", column = "D", start_row = "2" }
+  source = { type = "table", direction = "vertical", column = "D", start_row = "2", end_row = "47" }
   [[18212.mappings]]
   type = "string"
   destination = "data[].tel"
-  source = { type = "table", direction = "vertical", column = "E", start_row = "2" }
+  source = { type = "table", direction = "vertical", column = "E", start_row = "2", end_row = "47" }
   [[18212.mappings]]
   type = "string"
   destination = "data[].note"
-  source = { type = "table", direction = "vertical", column = "F", start_row = "2" }
+  source = { type = "table", direction = "vertical", column = "F", start_row = "2", end_row = "47" }
